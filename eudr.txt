@@ -1,0 +1,1829 @@
+REGULAMENTO (UE) 2023/1115 DO PARLAMENTO EUROPEU E DO CONSELHO
+
+de 31 de maio de 2023
+
+relativo à disponibilização no mercado da União e à exportação para fora da União de determinados produtos de base e produtos derivados associados à desflorestação e à degradação florestal e que revoga o Regulamento (UE) n.o 995/2010
+
+(Texto relevante para efeitos do EEE)
+
+O PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 192.o, n.o 1,
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Após transmissão do projeto de ato legislativo aos parlamentos nacionais,
+
+Tendo em conta o parecer do Comité Económico e Social Europeu (1),
+
+Após consulta ao Comité das Regiões,
+
+Deliberando de acordo com o processo legislativo ordinário (2),
+
+Considerando o seguinte:
+
+(1)
+
+As florestas são fonte de numerosos benefícios ambientais, económicos e sociais, nomeadamente madeira e produtos florestais não lenhosos, bem como serviços ambientais essenciais à humanidade, uma vez que albergam a maior parte da biodiversidade terrestre do planeta Terra. As florestas asseguram a manutenção das funções dos ecossistemas, ajudam a proteger o sistema climático, proporcionam ar limpo e desempenham um papel essencial na purificação das águas e dos solos e na retenção e recarga de águas. As extensas áreas florestais contribuem para aumentar o teor de humidade e ajudam a prevenir a desertificação das regiões continentais. Além disso, uma vez que as florestas garantem o sustento e os rendimentos de aproximadamente um terço da população mundial, a sua destruição acarreta graves consequências para a subsistência das populações mais vulneráveis, incluindo os povos indígenas e as comunidades locais que dependem fortemente dos ecossistemas florestais. Acresce ainda que a desflorestação e a degradação florestal reduzem os sumidouros de carbono essenciais. A desflorestação e a degradação florestal aumentam igualmente a probabilidade de contactos entre animais selvagens, animais de criação e seres humanos, aumentando, por conseguinte, o risco de transmissão de novas doenças e o risco de novas epidemias e pandemias.
+
+(2)
+
+A desflorestação e a degradação florestal estão a avançar a um ritmo alarmante. A Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) estima que, entre 1990 e 2020, se perderam em todo o mundo 420 milhões de hectares de floresta, ou seja, cerca de 10 % das florestas que restam no mundo, o equivalente a uma superfície superior à da União Europeia. A desflorestação e a degradação florestal são, por sua vez, importantes motores do aquecimento global e da perda de biodiversidade — os dois maiores desafios ambientais do nosso tempo. No entanto, o mundo continua a perder 10 milhões de hectares de floresta por ano. As florestas são também fortemente afetadas pelas alterações climáticas, e será necessário enfrentar muitos desafios para garantir a sua adaptabilidade e resiliência nas próximas décadas.
+
+(3)
+
+A desflorestação e a degradação florestal contribuem de várias formas para a crise climática mundial. A principal reside no aumento das emissões de gases com efeito de estufa em razão dos incêndios florestais associados, que eliminam permanentemente as capacidades de sumidouros de carbono, diminuem a resiliência da superfície afetada e reduzem substancialmente a sua biodiversidade e resiliência a doenças e pragas. A desflorestação é, por si só, responsável por 11 % das emissões de gases com efeito de estufa, conforme indicado no relatório especial do Painel Intergovernamental sobre as Alterações Climáticas (PIAC) sobre as alterações climáticas e os solos de 2019.
+
+(4)
+
+A crise climática leva à perda de biodiversidade a nível mundial, que, por sua vez, agrava as alterações climáticas: os dois fenómenos são portanto indissociáveis, como o confirmam estudos recentes. A biodiversidade e ecossistemas saudáveis são fundamentais para um desenvolvimento resiliente do ponto de vista climático. Os insetos, as aves e os mamíferos funcionam como polinizadores e dispersores de sementes e podem ajudar, direta ou indiretamente, a armazenar carbono de forma mais eficiente. Além disso, as florestas asseguram a reconstituição contínua dos recursos hídricos e a prevenção de secas e dos seus efeitos prejudiciais nas comunidades locais, incluindo os povos indígenas. A redução drástica da desflorestação e da degradação florestal e o restauro sistémico das florestas e de outros ecossistemas constituem a maior oportunidade de atenuação das alterações climáticas baseada na natureza.
+
+(5)
+
+A biodiversidade é essencial para a resiliência dos ecossistemas e dos seus serviços, tanto a nível local como mundial. Mais de metade do produto interno bruto mundial depende da natureza e dos serviços que presta. Três grandes setores económicos — construção, agricultura e alimentação e bebidas — dependem em grande medida da natureza. A perda de biodiversidade ameaça os ciclos sustentáveis da água e os sistemas alimentares, ameaçando a segurança alimentar e nutricional. Mais de 75 % dos tipos de culturas alimentares mundiais dependem da polinização animal. Além disso, vários setores industriais dependem da diversidade genética e dos serviços ecossistémicos como fatores de produção essenciais, nomeadamente para o fabrico de medicamentos, inclusive antimicrobianos.
+
+(6)
+
+As alterações climáticas, a perda de biodiversidade e a desflorestação são preocupações da máxima importância mundial, pois afetam a sobrevivência da humanidade e as condições de vida na Terra. A aceleração das alterações climáticas, da perda de biodiversidade e da degradação ambiental, aliada a exemplos concretos dos seus efeitos devastadores na natureza, nas condições de vida dos seres humanos e nas economias locais, levaram ao reconhecimento da transição ecológica como o objetivo determinante do nosso tempo e uma questão de igualdade de género e de equidade intergeracional.
+
+(7)
+
+Os defensores dos direitos humanos no domínio do ambiente, na sua luta pela proteção e promoção dos direitos humanos relacionados com o ambiente, nomeadamente o acesso à água, ao ar e à terra limpos, são frequentemente alvos de perseguição e de ataques letais. Tais ataques afetam desproporcionadamente os povos indígenas. De acordo com relatórios de 2020, mais de dois terços das vítimas desses ataques estavam a trabalhar para defender as florestas mundiais da desflorestação e do desenvolvimento industrial.
+
+(8)
+
+O consumo da União é um fator considerável da desflorestação e da degradação florestal à escala mundial. A avaliação de impacto do presente regulamento estimou que, sem uma intervenção regulamentar adequada, o consumo e a produção na União de seis produtos de base (bovinos, cacau, café, palmeira-dendém, soja e madeira) por si só aumentarão a desflorestação para aproximadamente 248 000 hectares por ano até 2030.
+
+(9)
+
+Relativamente à situação das florestas na União, o relatório de 2020 sobre o estado das florestas da Europa indica que, entre 1990 e 2020, a mancha florestal na Europa aumentou 9 %, o carbono armazenado na biomassa cresceu 50 % e a disponibilidade de madeira aumentou 40 %. As florestas primárias e em regeneração natural estão em risco, nomeadamente, devido à gestão intensiva, e a sua biodiversidade e as suas características estruturais únicas estão em perigo. Além disso, a Agência Europeia do Ambiente observou que menos de 5 % das áreas florestais europeias são agora consideradas intactas ou naturais, enquanto 10 % das áreas florestais europeias foram classificadas como sendo geridas de forma intensiva. Os ecossistemas florestais têm de fazer face a múltiplas pressões causadas pelas alterações climáticas, desde condições meteorológicas extremas até pragas, e a atividades decorrentes da ação humana que afetam negativamente os ecossistemas e os habitats. Em especial, a gestão intensiva de florestas da mesma idade devido ao corte raso e à remoção de madeira morta pode ter um impacto grave em habitats inteiros.
+
+(10)
+
+Em 2019, a Comissão adotou várias iniciativas para enfrentar as crises ambientais mundiais, nomeadamente ações específicas no domínio da desflorestação. Na sua Comunicação de 23 de julho de 2019 sobre a intensificação da ação da UE para proteger as florestas a nível mundial («comunicação sobre a intensificação da ação da UE para proteger as florestas a nível mundial»), a Comissão identificou como prioridade a redução da pegada da União relativamente à terra associada ao consumo e incentivou o consumo na União de produtos provenientes de cadeias de abastecimento não associadas à desflorestação. Na sua Comunicação de 11 de dezembro de 2019 relativa ao Pacto Ecológico Europeu, a Comissão delineou uma nova estratégia de crescimento que visa transformar a União numa sociedade equitativa e próspera, dotada de uma economia moderna, eficiente na utilização dos recursos, competitiva e assente num comércio sustentável e baseado em regras, a qual, em 2050, tenha zero emissões líquidas de gases com efeito de estufa, em que o crescimento económico esteja dissociado da utilização dos recursos e em que ninguém nem qualquer região seja deixado para trás. Visa proteger, conservar e reforçar o capital natural da União e proteger a saúde e o bem-estar dos cidadãos e das gerações futuras contra riscos e impactos relacionados com o ambiente. Além disso, o Pacto Ecológico Europeu visa proporcionar aos cidadãos e às gerações futuras, além do mais, ar puro, água potável, solos saudáveis e biodiversidade. Para tanto, a Comunicação da Comissão de 20 de maio de 2020 sobre uma «Estratégia de Biodiversidade da UE para 2030: Trazer a natureza de volta às nossas vidas» (a «Estratégia de Biodiversidade da UE para 2030»), a Comunicação da Comissão de 20 de maio de 2020 sobre uma Estratégia do Prado ao Prato para um sistema alimentar justo, saudável e respeitador do ambiente («Estratégia do Prado ao Prato»), a Comunicação da Comissão de 16 de julho de 2021 sobre uma nova Estratégia da UE para as Florestas 2030, a Comunicação da Comissão de 12 de maio de 2021 sobre o caminho para um planeta saudável para todos — Plano de ação da UE: «Rumo à poluição zero no ar, na água e no solo» e outras estratégias pertinentes, tais como a Comunicação da Comissão de 30 de junho de 2021 sobre «Uma visão a longo prazo para as zonas rurais da UE – Para zonas rurais mais fortes, interligadas, resilientes e prósperas, até 2040», elaboradas no âmbito do Pacto Ecológico Europeu, sublinham ainda mais a importância da ação em matéria de proteção e resiliência das florestas. Concretamente, a Estratégia de Biodiversidade da UE para 2030 visa proteger a natureza e reverter a degradação dos ecossistemas. Por último, a Comunicação da Comissão de 11 de outubro de 2018 sobre «Uma bioeconomia sustentável na Europa: Reforçar as ligações entre a economia, a sociedade e o ambiente» reforça a proteção do ambiente e dos ecossistemas, enfrentando simultaneamente a procura crescente de alimentos para consumo humano e animal, de energia, de materiais e de produtos, procurando novas formas de produção e de consumo.
+
+(11)
+
+Os Estados-Membros têm manifestado repetidamente a sua preocupação com o problema persistente da desflorestação e da degradação florestal. Salientaram que, uma vez que as atuais políticas e ações a nível mundial em matéria de conservação, restauro e gestão sustentável das florestas não são suficientes para travar a desflorestação, degradação florestal e perda de biodiversidade, é necessário um reforço da ação da União a fim de contribuir de forma mais eficaz para a concretização dos Objetivos de Desenvolvimento Sustentável (ODS) ao abrigo da Agenda 2030 para o Desenvolvimento Sustentável, que foi adotada por todos os Estados-Membros das Nações Unidas (ONU) em 2015. O Conselho apoiou especificamente o anúncio da Comissão na sua comunicação sobre a intensificação da ação da UE para proteger as florestas a nível mundial, de que iria avaliar novas medidas regulamentares e não regulamentares e apresentar propostas para ambos os tipos de medidas. A União e os Estados-Membros também subscreveram a Década de Ação das Nações Unidas dedicada aos ODS, a Década das Nações Unidas dedicada à Recuperação dos Ecossistemas e a Década das Nações Unidas dedicada à Agricultura Familiar.
+
+(12)
+
+O Parlamento Europeu já salientou que a destruição, a degradação e a conversão em curso das florestas e dos ecossistemas naturais, bem como as violações dos direitos humanos a nível mundial estão ligadas, em grande medida, à expansão da produção agrícola — sobretudo à conversão das florestas em terras agrícolas dedicadas à produção de diversos produtos de base e produtos derivados de grande procura. Em 22 de outubro de 2020, o Parlamento adotou uma resolução, em conformidade com o artigo 225.o do Tratado sobre o Funcionamento da União Europeia (TFUE), na qual solicita à Comissão que apresente, ao abrigo do artigo 192.o, n.o 1, do TFUE, uma proposta de «um regime jurídico da UE para travar e inverter a desflorestação mundial impulsionada pela UE», com base na diligência devida obrigatória.
+
+(13)
+
+O combate à desflorestação e à degradação florestal constitui uma parte importante do pacote de medidas necessárias para reduzir as emissões de gases com efeito de estufa e cumprir os compromissos assumidos pela União no âmbito do Pacto Ecológico Europeu e do Acordo de Paris adotado no âmbito da Convenção-Quadro das Nações Unidas sobre Alterações Climáticas (3) (o «Acordo de Paris»), bem como do Oitavo Programa de Ação em matéria de Ambiente, adotado pela Decisão (UE) 2022/591 do Parlamento Europeu e do Conselho (4), e do compromisso juridicamente vinculativo assumido ao abrigo do Regulamento (UE) 2021/1119 do Parlamento Europeu e do Conselho (5) para alcançar a neutralidade climática até 2050, o mais tardar, e de reduzir as emissões de gases com efeito de estufa em, pelo menos, 55 % até 2030, em comparação com os níveis de 1990.
+
+(14)
+
+O combate à desflorestação e à degradação florestal constitui também uma parte importante do pacote de medidas necessárias para combater a perda de biodiversidade e cumprir os compromissos assumidos pela União no âmbito da Convenção sobre a Diversidade Biológica da ONU (CDB) (6), do Pacto Ecológico Europeu, da Estratégia de Biodiversidade da UE para 2030 e dos objetivos da União em matéria de restauro da natureza.
+
+(15)
+
+As florestas primárias são únicas e insubstituíveis. As plantações florestais e as florestas plantadas têm uma composição diferente em termos de biodiversidade e prestam serviços ecossistémicos diferentes quando comparadas com as florestas primárias e as florestas obtidas a partir de regeneração natural.
+
+(16)
+
+A expansão agrícola é responsável por quase 90 % da desflorestação mundial, sendo que mais de metade das perdas de floresta resulta da sua conversão em solos agrícolas, enquanto quase 40 % das perdas de floresta se devem ao pastoreio de gado.
+
+(17)
+
+A produção de rações para gado pode contribuir para a desflorestação e a degradação florestal. A promoção de práticas agrícolas alternativas e sustentáveis pode dar resposta aos desafios ambientais e climáticos e prevenir a desflorestação e a degradação florestal a nível mundial. Os incentivos à adoção de regimes alimentares mais equilibrados, saudáveis e nutritivos e de um estilo de vida mais sustentável podem diminuir a pressão sobre as terras e os recursos.
+
+(18)
+
+A União importou e consumiu um terço dos produtos agrícolas comercializados a nível mundial associados à desflorestação entre 1990 e 2008. Durante esse período, o consumo da União foi responsável por 10 % da desflorestação a nível mundial associada à produção de bens ou à prestação de serviços. Apesar de a percentagem relativa de consumo da União estar a diminuir, o consumo da União é um impulsionador desproporcionalmente grande da desflorestação. A União deverá, pois, tomar medidas para minimizar a desflorestação e a degradação florestal a nível mundial causadas pelo seu consumo de determinados produtos de base e produtos derivados e, desse modo, procurar reduzir o seu contributo para as emissões de gases com efeito de estufa e a perda de biodiversidade a nível mundial, bem como promover padrões de produção e consumo sustentáveis na União e a nível mundial. Para exercerem o maior impacto possível, as políticas da União deverão procurar influenciar o mercado mundial e não apenas as cadeias de abastecimento da União. Neste contexto, as parcerias e uma cooperação internacional eficiente, incluindo acordos de comércio livre, com os países produtores e consumidores assumem uma importância fundamental.
+
+(19)
+
+A União está empenhada em promover e aplicar políticas ambiciosas em matéria de ambiente e clima em todo o mundo, em conformidade com a Carta dos Direitos Fundamentais da União Europeia, nomeadamente o artigo 37.o, que estabelece que as políticas da União devem integrar um elevado nível de proteção do ambiente e a melhoria da sua qualidade, e assegurá-lo de acordo com o princípio do desenvolvimento sustentável. No âmbito da dimensão externa do Pacto Ecológico Europeu, as medidas tomadas ao abrigo do presente regulamento deverão ter em conta a importância dos acordos, compromissos e regimes existentes a nível mundial que contribuem para reduzir a desflorestação e a degradação florestal, designadamente o Plano Estratégico das Nações Unidas para as Florestas 2017-2030 e os seus Objetivos Florestais Globais, a Convenção-Quadro das Nações Unidas sobre Alterações Climáticas (CQNUAC) e o Acordo de Paris, a CDB e o seu Quadro Mundial para a Biodiversidade pós-2020, o Plano Estratégico Global para a Biodiversidade 2011-2020 e as suas metas de Aichi em matéria de biodiversidade e a Convenção das Nações Unidas de Combate à Desertificação; bem como o regime multilateral de apoio ao combate às causas profundas da desflorestação e da degradação florestal, como os ODS e a Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas.
+
+(20)
+
+Travar a desflorestação e restaurar as florestas degradadas são componentes essenciais dos ODS. O presente regulamento deverá contribuir, concretamente, para a concretização dos objetivos relacionados com a proteção da vida terrestre (ODS 15), a ação climática (ODS 13), a produção e o consumo responsáveis (ODS 12), a erradicação da fome (ODS 2) e a saúde de qualidade e o bem-estar (ODS 3). O objetivo específico n.o 15.2 de travar a desflorestação até 2020 não foi alcançado, sublinhando a urgência de uma ação ambiciosa e eficaz.
+
+(21)
+
+O presente regulamento deverá, além disso, responder à Declaração de Nova Iorque sobre as Florestas, uma declaração política juridicamente não vinculativa que aprovou um calendário global para reduzir para metade a perda de florestas naturais até 2020 e procurar travá-la por completo até 2030. A declaração foi subscrita por dezenas de governos, por muitas das maiores empresas do mundo e por organizações da sociedade civil e organizações de povos indígenas influentes. Além disso, apelou ao setor privado para que atingisse o objetivo de eliminar a desflorestação resultante da produção de produtos de base agrícolas como o óleo de palma, a soja, o papel e os produtos à base de carne de bovino, o mais tardar, até 2020, um objetivo que não foi alcançado. Além disso, o presente regulamento deverá ainda contribuir para o Plano Estratégico das Nações Unidas para as Florestas 2017-2030, cujo Objetivo Florestal Global n.o 1 consiste em reverter a perda de cobertura florestal a nível mundial através da gestão sustentável das florestas, nomeadamente da proteção, do restauro, da arborização e da reflorestação, e intensificar os esforços para prevenir a degradação florestal e contribuir para o esforço global de combate às alterações climáticas.
+
+(22)
+
+O presente regulamento deverá igualmente responder à Declaração dos Líderes reunidos em Glasgow sobre Florestas e Uso do Solo emitida na Conferência das Nações Unidas sobre as Alterações Climáticas de novembro de 2021, que reconhece que «o cumprimento dos objetivos em matéria de uso dos solos, clima, biodiversidade e Objetivos de Desenvolvimento Sustentável, tanto a nível mundial como nacional, exigirá mais ações transformadoras nos domínios interligados da produção e do consumo sustentáveis, do desenvolvimento de infraestruturas, do comércio, finanças e investimento e do apoio aos pequenos agricultores, aos povos indígenas e às comunidades locais». Os signatários comprometeram-se a trabalhar coletivamente para travar e inverter a perda de floresta e a degradação dos solos até 2030 e salientaram que reforçariam os seus esforços comuns para promover políticas comerciais e de desenvolvimento, tanto a nível internacional como nacional, que fomentam o desenvolvimento sustentável e a produção e o consumo sustentáveis de produtos de base e que funcionam em benefício mútuo dos países.
+
+(23)
+
+Na qualidade de membro da Organização Mundial do Comércio (OMC), a União está empenhada em promover um sistema multilateral de comércio universal, assente em regras, aberto, transparente, previsível, inclusivo, não discriminatório e equitativo ao abrigo da OMC, bem como uma política comercial aberta, sustentável e decisiva. O âmbito de aplicação do presente regulamento deverá incluir, por conseguinte, produtos de base e produtos derivados tanto produzidos na União como importados para a União.
+
+(24)
+
+Os desafios que o mundo enfrenta em matéria de alterações climáticas e perda de biodiversidade só podem ser enfrentados com uma ação a nível mundial. A União deverá ser um interveniente mundial forte, que dê o exemplo e assuma a liderança na cooperação internacional, a fim de criar um sistema multilateral aberto e justo, em que o comércio sustentável funcione como fator essencial da transição ecológica para combater as alterações climáticas e inverter a perda de biodiversidade.
+
+(25)
+
+O presente regulamento surge igualmente na sequência das comunicações da Comissão de 22 de junho de 2022 sobre «O poder das parcerias comerciais: juntos por um crescimento económico ecológico e justo» e de 18 de fevereiro de 2021 sobre a «Revisão da Política Comercial — Uma política comercial aberta, sustentável e decisiva», que afirma que, em face dos novos desafios internos e externos e, mais concretamente, de um novo modelo de crescimento mais sustentável, definido pelo Pacto Ecológico Europeu e pela Estratégia Digital Europeia, constante da Comunicação da Comissão de 19 de fevereiro de 2020 intitulada «Construir o futuro digital da Europa», a União necessita de uma nova estratégia em matéria de política comercial — uma estratégia que apoie a consecução dos objetivos das suas políticas internas e externas e que promova uma maior sustentabilidade em linha com o seu compromisso para dar pleno cumprimento aos ODS. A política comercial deve desempenhar plenamente o seu papel na recuperação da União da pandemia de COVID-19 e na transformação ecológica e digital da economia, contribuindo igualmente para a construção de uma União mais resiliente no mundo.
+
+(26)
+
+Em consonância com a sua Comunicação de 22 de junho de 2022 sobre «O poder das parcerias comerciais: juntos por um crescimento económico ecológico e justo», a Comissão está a intensificar o diálogo com os parceiros comerciais a fim de promover a conformidade com as normas internacionais em matéria de trabalho e ambiente. A comunicação prevê capítulos firmes sobre o desenvolvimento sustentável, contendo cláusulas sobre desflorestação e degradação florestal. Assegurar o cumprimento dos atuais acordos comerciais e a celebração de novos acordos comerciais contendo tais capítulos complementará os objetivos do presente regulamento.
+
+(27)
+
+O presente regulamento deverá complementar outras medidas propostas na comunicação sobre a intensificação da ação da UE para proteger as florestas a nível mundial, designadamente trabalhar em parceria com os países produtores para ajudá-los a resolver as causas profundas da desflorestação, tais como a fraca governação, o controlo ineficaz do cumprimento da lei e a corrupção, e reforçar a cooperação internacional com os principais países consumidores através, nomeadamente, da promoção do comércio de produtos não associados à desflorestação e da adoção de medidas semelhantes para evitar a colocação, nos seus mercados, de produtos das cadeias de abastecimento associadas à desflorestação e à degradação florestal.
+
+(28)
+
+O presente regulamento deverá ter em conta o princípio da coerência das políticas para o desenvolvimento e servir a promoção e facilitação da cooperação com os países em desenvolvimento, em especial com os países menos desenvolvidos (PMD), nomeadamente através da prestação de assistência técnica e financeira, sempre que possível e pertinente.
+
+(29)
+
+Em coordenação com os Estados-Membros, a Comissão deverá continuar a trabalhar em parceria com os países produtores e, de um modo mais geral, em cooperação com organizações e organismos internacionais, bem como com as partes interessadas pertinentes ativas no terreno, através de diálogos multilaterais. A Comissão deverá reforçar o seu apoio e incentivos no que diz respeito à proteção das florestas e à transição para uma produção não associada à desflorestação, ao reconhecimento e reforço do papel e dos direitos dos povos indígenas, das comunidades locais, dos pequenos agricultores e das micro, pequenas e médias empresas (PME), à melhora da governação e das questões de propriedade fundiária, ao reforço do controlo da aplicação da lei e à promoção da gestão sustentável das florestas, com destaque para práticas florestais mais próximas da natureza, com base em indicadores e limiares científicos, o ecoturismo, a agricultura resiliente às alterações climáticas, a diversificação, a agroecologia e a agrossilvicultura. Ao fazê-lo, a Comissão deverá reconhecer plenamente o papel e os direitos dos povos indígenas e das comunidades locais na proteção das florestas, tendo em conta o princípio do consentimento livre, prévio e informado. Com base na experiência e nas lições aprendidas no contexto das iniciativas já existentes, a União e os Estados-Membros deverão trabalhar no sentido de criarem parcerias com os países produtores, a pedido destes, e enfrentar os desafios globais, satisfazendo simultaneamente as necessidades locais e prestando atenção aos desafios enfrentados pelos pequenos agricultores, em conformidade com a comunicação sobre a intensificação da ação da UE para proteger as florestas a nível mundial. A abordagem de parceria deverá ajudar os países produtores e partes dos mesmos a proteger e restaurar as florestas e a utilizá-las de forma sustentável, contribuindo assim para o objetivo do presente regulamento de reduzir a desflorestação e a degradação florestal, nomeadamente através da utilização de tecnologias digitais e de informação geoespacial, bem como do reforço das capacidades.
+
+(30)
+
+Os operadores e os comerciantes deverão estar vinculados às obrigações decorrentes do presente regulamento, independentemente de a disponibilização no mercado ser efetuada através de meios tradicionais ou em linha. O presente regulamento deverá, por conseguinte, assegurar a existência, em cada cadeia de abastecimento, de um operador, na aceção do presente regulamento, que esteja estabelecido na União e possa ser responsabilizado no caso de não cumprimento das obrigações decorrentes do presente regulamento. A Comissão e os Estados-Membros deverão acompanhar a aplicação do presente regulamento e identificar se, no futuro, a evolução digital e tecnológica exige especificações ou iniciativas adicionais, conforme adequado.
+
+(31)
+
+Outra ação importante anunciada na comunicação sobre a intensificação da ação da UE para proteger as florestas a nível mundial é a criação de um observatório da UE da desflorestação, da degradação florestal, das alterações no coberto florestal mundial e das causas associadas («Observatório da UE»), lançado pela Comissão para melhor acompanhar as alterações do coberto florestal mundial e os fatores associados. Com base nos instrumentos de monitorização existentes, nomeadamente os produtos Copernicus e outras fontes públicas ou privadas disponíveis, o Observatório da UE deverá facilitar o acesso a informações sobre as cadeias de abastecimento às entidades públicas, aos consumidores e às empresas, disponibilizando dados e informações de fácil compreensão que estabelecem uma ligação entre a desflorestação, a degradação florestal e as alterações da cobertura florestal mundial e a procura e comércio de produtos de base e de produtos derivados na União. O Observatório da UE deverá, assim, apoiar a aplicação do presente regulamento apresentando dados científicos sobre a desflorestação mundial, a degradação florestal e o comércio conexo. Deverá ainda fornecer mapas da cobertura do solo, nomeadamente com séries cronológicas desde a data de referência limite prevista no presente regulamento, e uma série de categorias que permitam analisar a composição da paisagem. O Observatório da UE deverá participar no desenvolvimento de um sistema de alerta precoce que combine as capacidades de investigação e monitorização. No que diz respeito ao presente regulamento, quando for tecnicamente viável, o objetivo do sistema de alerta precoce deverá ser parte integrante de uma plataforma que possa ajudar as autoridades competentes, os operadores, os comerciantes e outras partes interessadas pertinentes e fornecer um acompanhamento contínuo e notificações precoces de possíveis atividades de desflorestação ou degradação florestal. Essa plataforma deverá estar operacional o mais rapidamente possível. O Observatório da UE deverá cooperar com as autoridades competentes, as organizações e organismos internacionais pertinentes, os institutos de investigação, as organizações não governamentais, os operadores, os comerciantes, os países terceiros e outras partes interessadas pertinentes.
+
+(32)
+
+O regime jurídico da União em vigor centra-se no combate à exploração madeireira ilegal e ao comércio associado, não abordando diretamente a desflorestação. Consiste no Regulamento (UE) n.o 995/2010 do Parlamento Europeu e do Conselho (7) e no Regulamento (CE) n.o 2173/2005 do Conselho (8). Ambos os regulamentos foram avaliados num balanço de qualidade, que determinou que, embora a legislação tenha tido um impacto positivo na governação florestal, os objetivos dos dois regulamentos – nomeadamente de travar a exploração madeireira ilegal e o comércio conexo e de reduzir o consumo de madeira extraída ilegalmente na União – não foram cumpridos, tendo-se concluído que a concentração apenas na legalidade da madeira não era suficiente para a consecução dos objetivos.
+
+(33)
+
+Os relatórios disponíveis confirmam que uma parte considerável da desflorestação em curso é legal nos termos da legislação do país de produção. Um relatório da Forest Policy Trade and Finance Initiative publicado em maio de 2021 estima que, entre 2013 e 2019, cerca de 30 % da desflorestação destinada à agricultura comercial nos países tropicais era legal. Os dados disponíveis tendem a centrar-se em países com uma governação fraca – a percentagem mundial de desflorestação ilegal pode ser inferior, mas já permite obter sinais claros de que não ter em conta a desflorestação que é legal no país de produção acaba por comprometer a eficácia das medidas políticas.
+
+(34)
+
+A avaliação do impacto das eventuais medidas políticas para combater a desflorestação e a degradação florestal impulsionadas pela União, as conclusões do Conselho de 16 de dezembro de 2019 e a resolução do Parlamento Europeu de 22 de outubro de 2020 identificam claramente a necessidade de definir a desflorestação e a degradação florestal como critérios orientadores para futuras medidas da União. Centrar a atenção apenas na legalidade poderá acarretar um risco de diminuição das exigências ambientais com vista à obtenção de acesso ao mercado. Por conseguinte, o novo regime jurídico da União deverá abordar tanto a legalidade como a questão de saber se a produção dos produtos de base em causa e dos produtos derivados em causa está ou não associada à desflorestação.
+
+(35)
+
+A definição da expressão «não associado à desflorestação» deverá ser suficientemente ampla para abranger a desflorestação e a degradação florestal, deverá proporcionar clareza jurídica e ser mensurável com base em dados quantitativos, objetivos e internacionalmente reconhecidos.
+
+(36)
+
+Para efeitos do presente regulamento, deverá definir-se «uso agrícola» como o uso do solo para fins agrícolas. A este respeito, a Comissão deverá elaborar orientações para clarificar a interpretação desta definição, em especial no que se refere à conversão de florestas em solos cujo objetivo não seja o uso agrícola.
+
+(37)
+
+Em conformidade com as definições da FAO, os sistemas agroflorestais, inclusive nos casos em que as culturas são feitas sob coberto arbóreo, bem como os sistemas agrossilvícolas, silvopastoris e agrossilvopastoris, não deverão ser considerados florestas, constituindo antes um uso agrícola.
+
+(38)
+
+O presente regulamento deverá abranger os produtos de base cujo consumo na União seja mais relevante em termos de contributo para a desflorestação e a degradação florestal a nível mundial e para os quais uma intervenção política da União poderia trazer os maiores benefícios por valor unitário comercial. No âmbito do estudo de apoio à avaliação de impacto para o presente regulamento, realizou-se uma extensa revisão da literatura científica pertinente, nomeadamente das principais fontes que estimam o impacto do consumo da União na desflorestação mundial e que associam essa pegada ambiental a produtos de base específicos, que foi objeto de verificação cruzada através de uma ampla consulta das partes interessadas. Este processo resultou numa primeira lista de oito produtos de base. A madeira foi diretamente incluída no âmbito de aplicação, uma vez que já era abrangida pelo Regulamento (UE) n.o 995/2010. De acordo com um recente artigo científico (9) utilizado para a análise da eficiência, sete dos oito produtos de base analisados nesse documento são responsáveis pela maior fatia da desflorestação impulsionada pela União: a palmeira-dendém (34,0 %), a soja (32,8 %), a madeira (8,6 %), o cacau (7,5 %), o café (7,0 %), bovinos (5,0 %) e a borracha (3,4 %).
+
+(39)
+
+A fim de ter a certeza que o presente regulamento cumpre os seus objetivos, é importante assegurar que as rações para animais abrangidas pelo âmbito de aplicação do presente regulamento não conduzam à desflorestação. Por conseguinte, os operadores que colocam no mercado, ou exportam, produtos derivados em causa que contenham ou que tenham sido fabricados com bovinos, que tenham sido alimentados com produtos derivados em causa que contenham ou tenham sido fabricados com outros produtos de base em causa ou produtos derivados em causa, deverão certificar-se, no âmbito do seu sistema de diligência devida, de que as rações não são associadas à desflorestação. Nesse caso, os requisitos de geolocalização na aceção do presente regulamento, deverão limitar-se à localização geográfica de cada uma das instalações em que os bovinos foram criados, não devendo ser solicitadas informações de geolocalização das rações para animais propriamente ditas. Se obtiverem ou tomarem conhecimento de informações pertinentes, nomeadamente informações com base em preocupações fundamentadas apresentadas por terceiros, que indiquem que há um risco de as rações para animais não cumprirem com o presente regulamento, a autoridade competente deverá solicitar imediatamente informações pormenorizadas sobre essas rações. Se as rações já tiverem sido objeto da diligência devida numa fase anterior da cadeia de abastecimento, os operadores deverão utilizar como elementos de prova as faturas em questão, os números de referência das declarações de diligência devida pertinentes, ou qualquer documentação relevante que comprove que as rações não estão associadas à desflorestação, podendo ser-lhes exigido que disponibilizem estes elementos às autoridades competentes. Os elementos de prova deverão abranger a vida dos animais, até um máximo de cinco anos.
+
+(40)
+
+Tendo em conta que a utilização de produtos de base em causa e de produtos derivados em causa reciclados deverá ser encorajada, e que a inclusão desses produtos de base e produtos derivados no âmbito do presente regulamento constituiria um encargo desproporcionado para os operadores, os produtos de base e produtos derivados usados que tenham completado o seu ciclo de vida e que de outra forma seriam eliminados como resíduos, conforme definido no artigo 3.o, ponto 1), da Diretiva 2008/98/CE do Parlamento Europeu e do Conselho (10) deverão ser excluídos do âmbito do presente regulamento. No entanto, o mesmo não deverá ser aplicável a determinados subprodutos do processo de fabrico.
+
+(41)
+
+O presente regulamento deverá estabelecer obrigações relativas aos produtos de base em causa e aos produtos derivados em causa de forma a combater eficazmente a desflorestação e a degradação florestal e a promover cadeias de abastecimento não associadas à desflorestação, tendo simultaneamente em conta a proteção dos direitos humanos e os direitos dos povos indígenas e das comunidades locais, tanto na União como em países terceiros.
+
+(42)
+
+Ao avaliar o risco de não conformidade dos produtos de base em causa e dos produtos derivados em causa destinados a serem colocados no mercado ou exportados, deverão ser tidas em conta as violações dos direitos humanos associadas à desflorestação ou à degradação florestal, incluindo os direitos dos povos indígenas, das comunidades locais e dos titulares de direitos consuetudinários de propriedade fundiária.
+
+(43)
+
+Muitas organizações e organismos internacionais, como por exemplo a FAO, o PIAC, o Programa das Nações Unidas para o Ambiente e a União Internacional para a Conservação da Natureza, têm estado ativos, e acordos internacionais, como o Acordo de Paris e a CDB, têm sido celebrados no domínio da desflorestação e da degradação florestal, e as definições apresentadas no presente regulamento baseiam-se nesse trabalho.
+
+(44)
+
+É essencial que o presente regulamento aborde também a problemática da degradação florestal. A definição de «degradação florestal» deverá basear-se em conceitos acordados a nível internacional e assegurar que as obrigações associadas possam ser facilmente cumpridas pelos operadores e pelas autoridades competentes. Tais obrigações deverão ser mensuráveis e verificáveis do ponto de vista operacional, bem como claras e inequívocas, a fim de proporcionar segurança jurídica. Nesse contexto, o presente regulamento deverá centrar-se em elementos fundamentais da degradação florestal que sejam mensuráveis e verificáveis e que sejam de especial relevância para evitar impactos adversos no ambiente, com base nos dados científicos mais recentes. Para o efeito, a definição de degradação florestal deverá basear-se em conceitos acordados a nível internacional, definidos pela FAO. A definição de degradação florestal deverá ser revista, em conformidade com o presente regulamento, a fim de avaliar se a mesma deverá ser alargada de modo a abranger um leque mais vasto de causas de degradação florestal e de ecossistemas florestais a nível mundial, a fim de reforçar o contributo para os objetivos ambientais do presente regulamento, tendo em conta os progressos realizados nos debates internacionais sobre esta matéria, bem como a diversidade dos ecossistemas e as práticas florestais em todo o mundo. A revisão deverá ser realizada com base numa análise aprofundada, em estreita cooperação com os Estados-Membros e, se se justificar, em consulta com as partes interessadas, as organizações e organismos internacionais e a comunidade científica.
+
+(45)
+
+O presente regulamento deverá assegurar um equilíbrio adequado entre a proteção das expectativas legítimas dos operadores e dos comerciantes que coloquem produtos de base em causa e produtos derivados em causa no mercado ou que os exportam, minimizando ao mesmo tempo a perturbação súbita das cadeias de abastecimento, e o direito fundamental à proteção do ambiente consagrado no artigo 37.o da Carta dos Direitos Fundamentais da União Europeia. Para esse efeito, importa fixar uma data de referência limite que sirva de base para avaliar se as terras em causa foram sujeitas a desflorestação ou degradação florestal, o que significa que nenhum produto de base ou derivado abrangido pelo âmbito de aplicação do presente regulamento poderá ser colocado no mercado ou exportado, se tivesse sido produzido em terras sujeitas a desflorestação ou degradação florestal após essa data.
+
+(46)
+
+A data de referência limite deverá corresponder aos compromissos internacionais existentes estabelecidos nos ODS e na Declaração de Nova Iorque sobre as Florestas, que visam travar a desflorestação, restaurar as florestas degradadas e aumentar substancialmente a arborização e a reflorestação a nível mundial até 2020, devendo, por conseguinte, ser fixada em 31 de dezembro de 2020. Essa data é igualmente consistente com o anúncio da Comissão sobre a sua intenção de combater a desflorestação na comunicação sobre a intensificação da ação da UE para proteger as florestas a nível mundial, no Pacto Ecológico Europeu, na Estratégia de Biodiversidade da UE para 2030 e na Estratégia do Prado ao Prato. Em conformidade com o princípio da precaução, a data de referência limite prevista na proposta da Comissão para o presente regulamento é anterior à data de entrada em vigor do presente regulamento. A data de referência limite foi escolhida a fim de evitar uma antevista aceleração das atividades conducentes à desflorestação e à degradação florestal entre o anúncio da proposta da Comissão e a data de entrada em vigor do presente regulamento. O presente regulamento deverá reconhecer o objetivo ambiental prosseguido e confirmar a data de referência limite proposta para garantir que os produtores e operadores que causaram desflorestação e degradação florestal durante o período de negociação do presente regulamento não sejam autorizados a colocar no mercado os produtos de base em causa e produtos derivados em causa em questão produzidos nessas áreas, nem a exportá-los.
+
+(47)
+
+As limitações ao exercício dos direitos fundamentais e à proteção das expectativas legítimas dos operadores e comerciantes decorrentes da escolha da data de referência limite deverão ser proporcionadas e estritamente necessárias à prossecução do objetivo de interesse geral da proteção do ambiente. A fim de contribuir para esse objetivo, o presente regulamento não deverá aplicar-se aos produtos de base em causa nem aos produtos derivados em causa produzidos antes da data de entrada em vigor do presente regulamento. A aplicação diferida das disposições do presente regulamento que regem as obrigações dos operadores e comerciantes que tencionem colocar produtos de base em causa e produtos derivados em causa no mercado ou exportá-los também lhes proporciona um prazo razoável para se adaptarem aos novos requisitos do presente regulamento.
+
+(48)
+
+A fim de reforçar o contributo da União para travar a desflorestação e a degradação florestal e assegurar que não sejam colocados no mercado nem exportados, produtos derivados em causa provenientes de cadeias de abastecimento relacionadas com a desflorestação e a degradação florestal, os produtos derivados em causa não deverão ser colocados nem disponibilizados no mercado ou exportados, a menos que não estejam associados à desflorestação e que tenham sido produzidos em conformidade com a legislação aplicável do país de produção. Para confirmar que é este o caso, deverão ser sempre acompanhados de uma declaração de diligência devida.
+
+(49)
+
+Com base numa abordagem sistémica, os operadores deverão tomar as medidas adequadas para assegurarem que os produtos derivados em causa que tencionam colocar no mercado cumprem os requisitos de não associação à desflorestação e de legalidade do presente regulamento. Para tanto, é necessário que os operadores definam e apliquem sistemas de diligência devida. Esses sistemas de diligência devida deverão incluir três elementos, nomeadamente: os requisitos de informação, a avaliação do risco e as medidas de atenuação de risco, complementados pelas obrigações de comunicação de informações. Os procedimentos de diligência devida deverão ser concebidos de modo a facultar o acesso às informações sobre as fontes e sobre os fornecedores dos produtos de base e produtos derivados colocados no mercado, incluindo informações que demonstrem o cumprimento dos requisitos de ausência de desflorestação e degradação florestal e de legalidade, nomeadamente através da identificação do país ou de partes do país de produção e incluindo as coordenadas de geolocalização das parcelas de terreno em causa. Essas coordenadas de geolocalização que dependem da cronometria, da localização e/ou da observação da Terra podem recorrer a dados e serviços espaciais fornecidos no âmbito do programa espacial da União (EGNOS/Galileo e Copernicus). Com base nessas informações, os operadores deverão realizar uma avaliação do risco. Caso seja identificado um risco, os operadores deverão atenuá-lo de forma a alcançar um risco nulo ou negligenciável. O operador apenas deverá ser autorizado a colocar o produto derivado em causa no mercado ou a exportá-lo se concluir, após o exercício do procedimento de diligência devida, que existe um risco nulo ou negligenciável de que os produtos derivados em causa não estejam em conformidade com o presente regulamento.
+
+(50)
+
+Ao obter os produtos, deverão ser envidados esforços razoáveis para garantir o pagamento de um preço justo aos produtores, em especial aos pequenos agricultores, a fim de permitir um rendimento de subsistência e combater eficazmente a pobreza enquanto causa profunda da desflorestação.
+
+(51)
+
+Os operadores deverão assumir a responsabilidade pela conformidade dos produtos derivados em causa que tencionam colocar no mercado ou exportar, mediante a disponibilização de declarações de diligência devida. O presente regulamento deverá fornecer um modelo para essas declarações. Tais declarações de diligência devida deverão facilitar o controlo do cumprimento do presente regulamento por parte das autoridades competentes e dos tribunais e reforçar o cumprimento por parte dos operadores.
+
+(52)
+
+Para reconhecer as boas práticas, poderão utilizar-se regimes de certificação ou outros regimes de verificação por terceiros no procedimento de avaliação do risco. Estes não deverão substituir, contudo, a responsabilidade do operador em matéria de diligência devida.
+
+(53)
+
+Os comerciantes deverão ser responsáveis pela recolha e conservação das informações que garantam a transparência da cadeia de abastecimento dos produtos derivados em causa que disponibilizam no mercado. Os grandes comerciantes que não sejam PME têm uma influência significativa nas cadeias de abastecimento e desempenham um papel importante na garantia de que as cadeias de abastecimento não estão associadas à desflorestação. Deverão, por conseguinte, ter as mesmas obrigações que os operadores, assumir a responsabilidade pela conformidade dos produtos derivados em causa com o presente regulamento e assegurar, antes da disponibilização dos produtos derivados em causa no mercado, que exerceram a diligência devida, em conformidade com o presente regulamento, e que concluíram que não existe qualquer risco ou apenas um risco negligenciável.
+
+(54)
+
+Para promover a transparência e facilitar o controlo do cumprimento, os operadores que não se insiram nas categorias de PME, de microempresas ou pessoas singulares, deverão apresentar relatórios públicos anuais sobre o seu sistema de diligência devida, nomeadamente sobre as medidas tomadas para cumprir as suas obrigações.
+
+(55)
+
+Os operadores deverão poder receber preocupações fundamentadas das partes interessadas, incluindo por via eletrónica, e deverão investigar exaustivamente todas as preocupações fundamentadas recebidas.
+
+(56)
+
+Os demais atos jurídicos da União que prevejam requisitos de diligência devida na cadeia de valor no que diz respeito a impactos adversos nos direitos humanos ou no ambiente deverão ser aplicáveis, contanto que o presente regulamento não estabeleça disposições específicas com o mesmo objetivo, natureza e efeito que possam ser adaptadas no contexto de futuras alterações a atos jurídicos da União. A existência do presente regulamento não deverá excluir a aplicação de outros atos jurídicos da União que prevejam requisitos relativos à diligência devida na cadeia de valor. Sempre que outros atos jurídicos da União prevejam disposições mais específicas ou acrescentem requisitos às disposições previstas no presente regulamento, tais disposições deverão ser aplicadas em conjugação com o presente regulamento. Além disso, sempre que o presente regulamento contenha disposições mais específicas, estas não deverão ser interpretadas de modo que possa comprometer a aplicação eficaz de outros atos jurídicos da União em matéria de diligência devida nem a concretização do seu objetivo geral. Deverá ser possível à Comissão emitir orientações claras e de fácil compreensão para o cumprimento do presente regulamento por parte dos operadores e comerciantes, em especial das PME.
+
+(57)
+
+O respeito pelos direitos dos povos indígenas no tocante às florestas e ao princípio do consentimento livre, prévio e informado, nomeadamente conforme previsto na Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas, contribui para proteger a biodiversidade, atenuar as alterações climáticas e dar resposta às preocupações de interesse público. Os povos indígenas possuem conhecimentos tradicionais de valor ecológico e médico e oferecem muitas vezes um modelo de utilização sustentável dos recursos florestais. Tal pode contribuir para a conservação in situ, em consonância com as ambições da CDB. Além disso, os estudos sugerem os povos indígenas que vivem na floresta desempenham um papel duplo na luta contra as alterações climáticas: em primeiro lugar, resistem normalmente à ocupação e à desflorestação das terras que habitaram durante gerações e, em segundo lugar, algumas comunidades indígenas consideram ser sua responsabilidade proteger as florestas, a fim de atenuar as alterações climáticas.
+
+(58)
+
+Os princípios expostos na Declaração do Rio sobre Ambiente e Desenvolvimento das Nações Unidas, de 1992, nomeadamente o Princípio 10, relativo à importância da sensibilização do público e a sua participação nos debates ambientais, e o Princípio 22, relativo ao papel fundamental das populações indígenas na gestão do meio ambiente e no desenvolvimento, são importantes no contexto da preservação da gestão sustentável das florestas.
+
+(59)
+
+O conceito de consentimento livre, prévio e informado dos povos indígenas tem sido desenvolvido ao longo dos anos desde a aprovação da Convenção (n.o 169) dos Povos Aborígenes e Tribais da Organização Internacional do Trabalho, de 1989, e encontra-se refletido na Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas. Visa constituir uma salvaguarda para garantir que os potenciais impactos sobre os povos indígenas serão tidos em conta no processo de tomada de decisão dos projetos que os afetam.
+
+(60)
+
+Os operadores abrangidos pelo âmbito de aplicação de outros atos jurídicos da União que prevejam requisitos de diligência devida na cadeia de valor no que respeita a impactos adversos nos direitos humanos ou no ambiente deverão estar em condições de cumprir as obrigações de comunicação de informações previstas no presente regulamento mediante a inclusão das informações exigidas nos relatórios elaborados ao abrigo de outros atos jurídicos da União.
+
+(61)
+
+A responsabilidade pela aplicação do presente regulamento deverá incumbir aos Estados-Membros, devendo as autoridades competentes dos Estados-Membros assegurar o pleno cumprimento do mesmo. Só será possível alcançar uma execução uniforme do presente regulamento no que diz respeito aos produtos derivados em causa que entrem ou saiam do mercado através de um intercâmbio sistemático de informações e da cooperação entre as autoridades competentes, as autoridades aduaneiras e a Comissão.
+
+(62)
+
+A aplicação e a execução eficazes e eficientes do presente regulamento são essenciais para a consecução dos seus objetivos. Para tanto, a Comissão deverá criar e gerir um sistema de informação que ajude os operadores e as autoridades competentes a apresentar e aceder às informações necessárias sobre os produtos derivados em causa colocados no mercado. Os operadores deverão apresentar as declarações de diligência devida através do sistema de informação. Este sistema de informação deverá ser acessível às autoridades competentes e às autoridades aduaneiras, a fim de facilitar o cumprimento das obrigações que lhes incumbem por força do presente regulamento e deverá facilitar as transferências de informações entre os Estados-Membros, as autoridades competentes e as autoridades aduaneiras. Os dados não sensíveis do ponto de vista comercial também deverão ser acessíveis a um público mais alargado, sob forma anonimizada, com exceção de informação relativa à lista de sentenças transitadas em julgado contra pessoas coletivas por infrações ao presente regulamento e as sanções que lhes foram impostas, e deverão ser fornecidos num formato aberto e de leitura automática, em conformidade com a política de livre acesso aos dados da União, tal como estabelecida na Diretiva (UE) 2019/1024 do Parlamento Europeu e do Conselho (11).
+
+(63)
+
+No caso dos produtos derivados em causa que entrem ou saiam do mercado, as autoridades competentes deverão ficar encarregues da verificação da conformidade dos mesmos com o presente regulamento com base, entre outras, nas declarações de diligência devida apresentada pelos operadores. O papel das autoridades aduaneiras deverá ser o de assegurar que uma referência à declaração de diligência devida lhes é disponibilizada, sempre que necessário, e, além disso, a partir do momento em que a interface eletrónica esteja operacional para a troca de informações entre as autoridades aduaneiras e as autoridades competentes, as autoridades aduaneiras deverão verificar o estado da declaração de diligência devida após uma análise inicial do risco realizada pelas autoridades competentes no âmbito do sistema de informação. As autoridades aduaneiras deverão atuar em conformidade, por exemplo, suspender ou rejeitar um produto de base em causa ou produto derivado em causa se o estado da declaração de diligência devida indicado no sistema de informação assim o exigir. Essa organização específica dos controlos torna o capítulo VII do Regulamento (UE) 2019/1020 do Parlamento Europeu e do Conselho (12) inaplicável no que diz respeito à aplicação e à execução do presente regulamento.
+
+(64)
+
+Os Estados-Membros deverão assegurar que existam sempre recursos financeiros adequados para que as autoridades competentes tenham à sua disposição o pessoal e os equipamentos adequados. Um nível elevado de recursos é necessário a fim de realizar verificações de forma eficiente, pelo que será conveniente disponibilizar, a qualquer momento, recursos estáveis, a um nível adequado para esse efeito. Os Estados-Membros deverão poder complementar o financiamento público pedindo o reembolso, aos operadores económicos pertinentes, dos custos decorrentes da realização de verificações em relação aos produtos de base em causa e produtos derivados em causa que foram considerados não conformes.
+
+(65)
+
+O presente regulamento não prejudica outros atos jurídicos da União relativos a mercadorias e produtos que entrem ou saiam do mercado, nomeadamente o Regulamento (UE) n.o 952/2013 do Parlamento Europeu e do Conselho (13) no que diz respeito aos poderes das autoridades aduaneiras e aos controlos aduaneiros. É conveniente recordar aos importadores que os artigos 220.o, 254.o, 256.o, 257.o e 258.o desse regulamento preveem que os produtos que entram no mercado e que necessitam de transformação complementar devem ser colocados ao abrigo do regime aduaneiro apropriado que permita essa transformação. De um modo geral, a introdução em livre prática ou a exportação não deverão ser consideradas provas de conformidade com o direito da União, uma vez que não incluem necessariamente um controlo completo da conformidade.
+
+(66)
+
+Para otimizar o processo de controlo, nomeadamente minimizando os encargos administrativos dos produtos derivados em causa que entrem ou saiam do mercado, é necessário criar uma interface eletrónica interoperável que permita a transferência automática de dados entre os sistemas aduaneiros e o sistema de informação das autoridades competentes. O Ambiente de Janela Única Aduaneira da União Europeia é o candidato natural para permitir essas transferências de dados. A interface deverá ser altamente automatizada e fácil de utilizar e deverá facilitar os processos às autoridades aduaneiras e aos operadores. Além disso, tendo em conta as diferenças limitadas entre os dados a disponibilizar às autoridades aduaneiras e os dados a incluir na declaração de diligência devida, afigura-se pertinente propor também uma abordagem «empresas-administração pública» através da qual os comerciantes e os operadores económicos disponibilizem a declaração de diligência devida de um produto derivado em causa através do ambiente de janela única aduaneira nacional e essa seja transmitida automaticamente ao sistema de informação ao abrigo do presente regulamento utilizado pelas autoridades competentes. As autoridades aduaneiras e as autoridades competentes deverão contribuir para a determinação dos dados a transmitir e quaisquer outros requisitos técnicos.
+
+(67)
+
+O risco de os produtos derivados não conformes serem colocados no mercado ou exportados varia em função do produto de base em causa e do produto derivado em causa, bem como do seu país de origem e de produção ou de partes desses países. Os operadores que obtenham produtos de base e produtos derivados em países ou partes de países que apresentem um baixo risco de cultivo, colheita ou produção dos produtos de base em causa em violação do presente regulamento deverão estar sujeitos a menos obrigações, reduzindo assim os custos de conformidade e os encargos administrativos, a menos que o operador tenha conhecimento ou razões para crer que existe risco de não cumprimento do presente regulamento. Sempre que uma autoridade competente tome conhecimento de um risco de o presente regulamento ser contornado, por exemplo, se um produto de base em causa ou produto derivado em causa produzido num país de alto risco for subsequentemente transformado num país de baixo risco ou em partes de um país de baixo risco, a partir do qual seja colocado, entre ou saia do mercado, e a declaração de diligência devida ou a declaração aduaneira indicarem que o produto de base em causa ou produto derivado em causa foi produzido num país de baixo risco, a autoridade competente deverá verificar, através de verificações adicionais, se existe uma situação de não cumprimento e, se necessário, tomar medidas adequadas, como a apreensão do produto de base em causa ou do produto derivado em causa e a suspensão da colocação no mercado ou da exportação do produto de base em causa ou do produto derivado em causa, bem como a realização de verificações adicionais. As autoridades competentes deverão ser obrigadas a aplicar um controlo reforçado aos produtos de base em causa e produtos derivados em causa de países ou de partes de países de alto risco.
+
+(68)
+
+Além disso, a Comissão deverá avaliar o risco de desflorestação e degradação florestal ao nível de um país ou de partes de um país, com base num conjunto de critérios que reflitam dados quantitativos, objetivos e reconhecidos internacionalmente, por um lado, e indicações de que os países estão ativamente empenhados na luta contra a desflorestação e a degradação florestal, por outro. Tal informação comparativa deverá facilitar o exercício da diligência devida por parte dos operadores da União e o acompanhamento e o controlo do cumprimento pelas autoridades competentes, incentivando também os países produtores a aumentar a sustentabilidade dos seus sistemas de produção agrícola e a reduzir o seu impacto em termos de desflorestação. Tal deverá contribuir para aumentar a transparência e a sustentabilidade das cadeias de abastecimento. O sistema de avaliação comparativa deverá basear-se num sistema de classificação dos países em três níveis, a saber, de risco baixo, padrão ou alto. A fim de assegurar a devida transparência e clareza, a Comissão deverá, em especial, tornar públicos os dados utilizados para a avaliação comparativa, as razões para a alteração da classificação proposta e a resposta do país em causa. No que diz respeito aos produtos derivados em causa provenientes de países de baixo risco ou de partes de países classificados de baixo risco, os operadores deverão poder exercer uma diligência devida simplificada. No que diz respeito aos produtos derivados em causa provenientes de países de alto risco ou de partes de países classificados de alto risco as autoridades competentes deverão ser obrigadas a aplicar um controlo reforçado. A Comissão deverá ser habilitada a adotar atos de execução para determinar a lista de países ou partes de países que apresentem um risco baixo ou alto.
+
+(69)
+
+A Comissão deverá cooperar com os países classificados ou suscetíveis de serem classificados como sendo de alto risco, bem como com as partes interessadas pertinentes desses países, a fim de trabalhar no sentido de reduzir o nível de risco.
+
+(70)
+
+As autoridades competentes deverão efetuar verificações a intervalos regulares aos operadores e aos comerciantes para se certificarem de que estes cumprem efetivamente as obrigações impostas pelo presente regulamento. Além disso, as autoridades competentes deverão efetuar verificações com base nas informações relevantes na sua posse, incluindo preocupações fundamentadas manifestadas por terceiros. As autoridades competentes deverão usar uma abordagem baseada no risco para determinar as verificações a efetuar. Em relação aos produtos de base e produtos derivados em causa, provenientes de países ou de partes de países classificados como sendo de alto risco, dos respetivos operadores e comerciantes e dos volumes da sua quota de produtos de base em causa e produtos derivados em causa, deverá aplicar-se uma abordagem dupla que permita uma cobertura abrangente. As autoridades competentes deverão, pois, ser obrigadas a verificar uma determinada percentagem de operadores e comerciantes, abrangendo também uma percentagem específica dos produtos derivados em causa. No caso de produtos derivados em causa provenientes de países ou partes de países classificados de risco baixo ou de risco padrão, as autoridades competentes deverão ser obrigadas a verificar, pelo menos, uma determinada percentagem de operadores e comerciantes. O nível de verificações deverá ser mais elevado para os produtos relevantes provenientes de países ou partes de países de alto risco, podendo ser inferior para países ou partes de países de risco padrão ou de baixo risco. Na sua revisão do presente regulamento, a Comissão deverá avaliar e identificar objetivos quantificados para as verificações anuais, a realizar pelas autoridades competentes, que sejam adequadas para assegurar o cumprimento do presente regulamento e uma abordagem harmonizada em toda a União.
+
+(71)
+
+As verificações realizadas aos operadores e aos comerciantes pelas autoridades competentes deverão abranger os sistemas de diligência devida e a conformidade dos produtos derivados em causa com o presente regulamento. As verificações deverão basear-se num plano de verificações baseado no risco que contém critérios de risco que permitam às autoridades competentes efetuar uma análise de risco das declarações de diligência devida apresentadas pelos operadores e comerciantes. Os critérios de risco deverão ter em conta o risco de desflorestação associada aos produtos de base em causa no país de produção, o historial de não conformidade dos operadores e comerciantes com as obrigações do presente regulamento e quaisquer outras informações relevantes ao dispor das autoridades competentes. A análise de risco das declarações de diligência devida deverá permitir que as autoridades competentes identifiquem os operadores, comerciantes e produtos derivados em causa a verificar. Essa análise do risco deverá ser efetuada utilizando técnicas de tratamento eletrónico de dados no sistema de informação através do qual são apresentadas as declarações de diligência devida. Sempre que necessário e tecnicamente possível, as autoridades competentes, após consulta e em estreita cooperação com as autoridades de países terceiros, deverão igualmente poder realizar verificações no local.
+
+(72)
+
+Caso a análise de risco das declarações de diligência devida revele um elevado risco de não cumprimento por parte de produtos derivados em causa específicos, as autoridades competentes deverão poder tomar medidas provisórias imediatas para impedir a colocação ou disponibilização desses produtos no mercado ou a sua exportação. No caso de esses produtos derivados em causa estarem a entrar ou a sair do mercado, as autoridades competentes deverão solicitar às autoridades aduaneiras a suspensão da sua introdução em livre prática ou exportação, a fim de permitir que as autoridades competentes efetuem as verificações necessárias. Esses pedidos deverão ser comunicados por intermédio do sistema de interface entre as autoridades aduaneiras e as autoridades competentes. A suspensão da colocação ou disponibilização no mercado, da introdução em livre prática ou da exportação deverá ser limitada a três dias úteis, ou a 72 horas no caso de produtos derivados em causa perecíveis, exceto se as autoridades competentes precisarem de tempo suplementar para avaliar a conformidade dos produtos de base e produtos derivados em causa com o presente regulamento. Nesses casos, as autoridades competentes deverão tomar medidas provisórias adicionais para prorrogar o período de suspensão, ou no caso de entrada ou saída dos produtos derivados em causa do mercado, solicitar uma prorrogação às autoridades aduaneiras.
+
+(73)
+
+As autoridades competentes deverão atualizar regularmente os seus planos de verificações com base nos resultados da execução dessas verificações. Os operadores que apresentem um historial constante de conformidade poderão ser sujeitos a verificações menos frequentes.
+
+(74)
+
+Para garantir a aplicação e a execução eficazes do presente regulamento, os Estados-Membros deverão ter o poder de retirar do mercado e recolher produtos derivados não conformes, bem como de tomar as medidas corretivas adequadas. Além disso, deverão assegurar que as infrações ao presente regulamento por operadores e comerciantes sejam sujeitas a sanções efetivas, proporcionadas e dissuasivas.
+
+(75)
+
+A fim de aumentar a responsabilização dos operadores e comerciantes, a Comissão deverá publicar no seu sítio Web a lista de sentenças transitadas em julgado contra pessoas coletivas por infrações ao presente regulamento e as sanções que lhes foram impostas. Essa informação poderá ajudar as autoridades competentes, outros operadores e comerciantes a realizar as suas avaliações do risco e aumentar a sensibilização dos consumidores e da sociedade civil para os operadores e comerciantes que infrinjam o presente regulamento.
+
+(76)
+
+A aplicação do presente regulamento exigirá recursos e capacidades suficientes. Nesse contexto, para além dos recursos nacionais, os Estados-Membros deverão lançar mão, tanto quanto possível, das oportunidades e possibilidades de apoio disponíveis a nível da União e de outros meios, incluindo os fundos de coesão e instrumentos de reforço das capacidades, nomeadamente no contexto do instrumento de assistência técnica, criado pelo Regulamento (UE) 2021/240 do Parlamento Europeu e do Conselho (14).
+
+(77)
+
+Tendo em conta o caráter internacional da desflorestação e da degradação florestal, bem como do comércio conexo, as autoridades competentes deverão cooperar entre si, com as autoridades aduaneiras dos Estados-Membros, com a Comissão e com as autoridades administrativas de países terceiros. As autoridades competentes deverão também cooperar com as autoridades competentes para a supervisão e a execução de outros atos jurídicos da União que definam os requisitos de diligência devida na cadeia de valor no que diz respeito aos impactos adversos nos direitos humanos ou no ambiente.
+
+(78)
+
+Em conformidade com a jurisprudência constante do Tribunal de Justiça da União Europeia, cabe aos órgãos jurisdicionais dos Estados-Membros assegurar a proteção jurisdicional dos direitos de cada pessoa conferidos pelo direito da União. Além disso, o artigo 19.o, n.o 1, do Tratado da União Europeia (TUE) obriga os Estados-Membros a estabelecer as vias de recurso necessárias para assegurarem uma tutela jurisdicional efetiva nos domínios abrangidos pelo direito da União. A este respeito, os Estados-Membros deverão assegurar que seja garantido ao público, nomeadamente às pessoas singulares ou coletivas que apresentem preocupações fundamentadas em conformidade com o presente regulamento, o acesso à justiça, em conformidade com as obrigações que os Estados-Membros acordaram enquanto partes na Convenção sobre Acesso à Informação, Participação do Público no Processo de Tomada de Decisão e Acesso à Justiça em Matéria de Ambiente, da Comissão Económica das Nações Unidas para a Europa (UNECE), de 25 de junho de 1998 («Convenção de Aarhus»).
+
+(79)
+
+A fim de assegurar que o presente regulamento continua a ser pertinente e em consonância com a evolução comercial, científica e tecnológica, o poder de adotar atos nos termos do artigo 290.o do TFUE deverá ser delegado na Comissão no que diz respeito à lista de códigos NC dos produtos derivados em causa enumerados que consta do anexo I do presente regulamento. É particularmente importante que a Comissão proceda às consultas adequadas durante os trabalhos preparatórios, inclusive ao nível de peritos, e que essas consultas sejam conduzidas de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor (15). Em particular, a fim de assegurar a igualdade de participação na preparação dos atos delegados, o Parlamento Europeu e o Conselho recebem todos os documentos ao mesmo tempo que os peritos dos Estados-Membros, e os respetivos peritos têm sistematicamente acesso às reuniões dos grupos de peritos da Comissão que tratem da preparação dos atos delegados.
+
+(80)
+
+O Regulamento (UE) n.o 995/2010 proíbe a colocação no mercado da União de madeira ilegalmente extraída e de produtos da madeira dela derivados. Estipula a obrigação de os operadores que colocam madeira no mercado pela primeira vez exercerem a diligência devida e de os comerciantes manterem um registo rastreável dos seus fornecedores e clientes. O presente regulamento deverá manter a obrigação de garantir a legalidade dos produtos derivados em causa, nomeadamente madeira e produtos de madeira, colocados no mercado e complementar essa obrigação com um requisito de sustentabilidade. Tornam-se, assim, redundantes o Regulamento (UE) n.o 995/2010 e o Regulamento de Execução (UE) n.o 607/2012 da Comissão (16), que deverão, por conseguinte, ser revogados. A madeira e os produtos de madeira, na aceção do artigo 2.o, alínea a), do Regulamento (UE) n.o 995/2010, são equivalentes à madeira e aos produtos de madeira que estão enumerados no anexo I do presente regulamento e que contenham ou tenham sido fabricados com madeira.
+
+(81)
+
+O Regulamento (CE) n.o 2173/2005 cria um regime de licenciamento para a aplicação da legislação, a governação e o comércio no sector florestal (FLEGT, do inglês «Forest Law Enforcement, Governance and Trade») para a importação de madeira para a União. O regime de licenciamento é aplicado através de acordos de parceria voluntários (APV) com os países produtores de madeira, destinados a pôr termo à exploração madeireira ilegal e a reforçar a governação florestal e o comércio conexo. O presente regulamento deverá basear-se nos resultados positivos alcançados no âmbito do FLEGT, especialmente em termos de uma maior participação das partes interessadas e de uma melhor governação florestal. Em casos específicos, os APV poderão complementar o presente regulamento no que diz respeito à legalidade dos produtos de madeira. Para respeitar os compromissos bilaterais em curso e preservar os progressos alcançados com os países parceiros que dispõem de um sistema operacional em vigor (fase de licenciamento FLEGT) e trabalhar, se for caso disso e de comum acordo, com os atuais parceiros de APV no sentido de chegar a essa fase, o presente regulamento deverá incluir uma disposição que declare que se considera que a madeira e os produtos de madeira abrangidos por uma licença FLEGT válida cumprem o requisito de legalidade do Regulamento (CE) n.o 2173/2005.
+
+(82)
+
+Embora o presente regulamento aborde a desflorestação e a degradação florestal, conforme previsto na comunicação sobre a intensificação da ação da UE para proteger as florestas a nível mundial, a proteção das florestas não deverá conduzir à conversão nem à degradação de outros ecossistemas naturais. Ecossistemas, nomeadamente ecossistemas geridos, como as zonas húmidas, as savanas e as turfeiras, são altamente significativos para os esforços mundiais de combate às alterações climáticas e à crise de biodiversidade, bem como para outros ODS, e a sua conversão ou degradação devem ser evitadas e exigem medidas especiais e urgentes. Tendo em conta a pegada da União nos ecossistemas naturais não florestais, a Comissão deverá avaliar e, se for caso disso, apresentar uma proposta legislativa sobre o alargamento do âmbito de aplicação do presente regulamento a outras áreas arborizados, o mais tardar um ano após a data de entrada em vigor do presente regulamento. Além disso, o mais tardar dois anos após essa data de entrada em vigor, a Comissão deverá avaliar e, se for caso disso, apresentar uma proposta legislativa destinada a alargar o âmbito de aplicação do presente regulamento a outros ecossistemas naturais, nomeadamente a outras áreas com elevadas reservas de carbono e com um elevado valor em termos de biodiversidade, como prados, turfeiras e zonas húmidas. Os ecossistemas estão igualmente sob uma pressão crescente de conversão e degradação devido à produção de produtos de base para o mercado da União. A Comissão deverá também avaliar a necessidade e a viabilidade de alargar o âmbito de aplicação a outros produtos de base o mais tardar dois anos após a data de entrada em vigor do presente regulamento. Ao mesmo tempo, a Comissão deverá também proceder a uma revisão da lista dos códigos NC dos produtos derivados em causa que consta do anexo I do presente regulamento.
+
+(83)
+
+Tendo em conta o pedido formulado pelo Parlamento Europeu na sua resolução sobre um regime jurídico da UE para travar e inverter a desflorestação mundial impulsionada pela UE, de 22 de outubro de 2020, e pela grande maioria dos quase 1,2 milhões de participantes na consulta pública da Comissão, a Comissão deverá centrar a sua avaliação e qualquer futura proposta legislativa no alargamento do âmbito de aplicação do presente regulamento aos ecossistemas não florestais e à sua conversão e degradação.
+
+(84)
+
+Caso, para efeitos do presente regulamento, seja necessário proceder ao tratamento de dados pessoais, o tratamento de tais dados deverá ser efetuado nos termos da legislação da União sobre a proteção dos dados pessoais. Qualquer tratamento de dados pessoais ao abrigo do presente regulamento está sujeito ao Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho (17) e ao Regulamento (UE) 2018/1725 do Parlamento Europeu e do Conselho (18), consoante o caso.
+
+(85)
+
+Atendendo a que o objetivo do presente regulamento, a saber, a luta contra a desflorestação e a degradação florestal mediante a redução do contributo do consumo da União para estes fenómenos, não pode ser suficientemente alcançado pelos Estados-Membros mas pode, devido à sua escala, ser mais bem alcançado ao nível da União, a União pode tomar medidas, em conformidade com o princípio da subsidiariedade consagrado no artigo 5.o do TUE. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para alcançar esse objetivo.
+
+(86)
+
+Os operadores, os comerciantes e as autoridades competentes deverão dispor de um período razoável para se prepararem para cumprir os requisitos do presente regulamento,
+
+ADOTARAM O PRESENTE REGULAMENTO:
+
+CAPÍTULO 1
+
+DISPOSIÇÕES GERAIS
+
+Artigo 1.o
+
+Objeto e âmbito de aplicação
+
+1.   O presente regulamento estabelece regras relativas à colocação e disponibilização no mercado da União, bem como à exportação para fora do mercado, dos produtos derivados em causa, enumerados no anexo I, que contenham ou tenham sido alimentados ou fabricados com produtos de base em causa, a saber bovinos, cacau, café, palmeira-dendém, borracha, soja e madeira, a fim de:
+
+a)
+
+Minimizar o contributo da União para a desflorestação e a degradação florestal a nível mundial, contribuindo assim para a redução da desflorestação mundial;
+
+b)
+
+Reduzir o contributo da União para as emissões de gases com efeito de estufa e para a perda de biodiversidade a nível mundial.
+
+2.   Exceto nos casos previstos no artigo 37.o, n.o 3, o presente regulamento não é aplicável aos produtos derivados em causa enumerados no anexo I produzidos antes da data indicada no artigo 38.o, n.o 1.
+
+Artigo 2.o
+
+Definições
+
+Para efeitos do presente regulamento, entende-se por:
+
+1)
+
+«Produtos de base em causa», os bovinos, o cacau, o café, a palmeira-dendém, a borracha, a soja e a madeira;
+
+2)
+
+«Produtos derivados em causa», os produtos derivados enumerados no anexo I, que contenham, tenham sido alimentados ou fabricados com algum dos produtos de base em causa;
+
+3)
+
+«Desflorestação», a conversão de florestas para uso agrícola, quer tenha origem humana ou não;
+
+4)
+
+«Floresta», um terreno de uma extensão superior a 0,5 hectares, com árvores de mais de cinco metros de altura e um grau de coberto arbóreo de mais de 10 %, ou árvores que possam alcançar esses limiares in situ, excluindo as terras predominantemente consagradas a uso agrícola ou urbano;
+
+5)
+
+«Uso agrícola», o uso do solo para fins agrícolas, incluindo para plantações agrícolas e para superfícies agrícolas retiradas da produção, e áreas para a criação de gado;
+
+6)
+
+«Plantação agrícola», terreno com povoamentos arbóreos integrados em sistemas de produção agrícola, nomeadamente plantações de árvores de frutos, plantações de palmeira-dendém ou olivais, e em sistemas agroflorestais, quando as culturas são plantadas sob coberto arbóreo; incluem todas as plantações dos produtos de base em causa, com exceção da madeira; as plantações agrícolas estão excluídas da definição de «floresta»;
+
+7)
+
+«Degradação florestal», as alterações estruturais do coberto florestal, sob a forma de conversão de:
+
+a)
+
+Florestas primárias, ou de florestas em regeneração natural, em plantações florestais ou noutros terrenos arborizados; ou
+
+b)
+
+Florestas primárias em florestas plantadas;
+
+8)
+
+«Floresta primária», uma floresta naturalmente regenerada de espécies arbóreas autóctones, onde não existam indícios de atividade humana e os processos ecológicos não se encontrem significativamente perturbados;
+
+9)
+
+«Floresta obtida a partir de regeneração natural», uma floresta constituída predominantemente por árvores estabelecidas por regeneração natural; inclui quaisquer das seguintes:
+
+a)
+
+As florestas relativamente às quais não é possível distinguir se foram plantadas ou se foram obtidas a partir de regeneração natural;
+
+b)
+
+As florestas com uma mistura de espécies arbóreas autóctones naturalmente regeneradas e árvores plantadas ou semeadas, e onde é expectável que as árvores naturalmente regeneradas constituam a maior parte do volume em crescimento na maturidade;
+
+c)
+
+As talhadias de árvores originalmente estabelecidas a partir de regeneração natural;
+
+d)
+
+As árvores de espécies introduzidas naturalmente regeneradas;
+
+10)
+
+«Floresta plantada», uma floresta predominantemente constituída por árvores plantadas e/ou semeadas deliberadamente, desde que se preveja que as árvores plantadas ou semeadas constituam mais de 50 % do volume em crescimento na maturidade; inclui as talhadias de árvores originalmente plantadas ou semeadas;
+
+11)
+
+«Plantação florestal», uma floresta plantada que é gerida de forma intensiva e que inclui, aquando da plantação e na maturidade, todos os seguintes critérios: uma ou duas espécies, a mesma classe de idade e compasso regular; inclui plantações de revolução curta para madeira, fibras e energia e exclui as florestas plantadas para proteção ou restauro de ecossistemas, bem como as florestas criadas por plantação ou sementeira que, na maturidade, se assemelham ou serão semelhantes às florestas em regeneração natural;
+
+12)
+
+«Outros terrenos arborizados», os terrenos não classificados como «floresta» de uma dimensão superior a 0,5 hectares, com árvores de mais de cinco metros de altura e um grau de coberto de 5 % a 10 %, ou árvores que possam alcançar esses limiares in situ, ou com um coberto combinado de arbustos, silvados e árvores superior a 10 %, excluindo as terras predominantemente consagradas a uso agrícola ou urbano;
+
+13)
+
+«Não associado à desflorestação»:
+
+a)
+
+Que os produtos derivados em causa contêm, foram alimentados ou fabricados com produtos de base em causa produzidos em terras que não foram objeto de desflorestação após 31 de dezembro de 2020; e
+
+b)
+
+No caso de produtos derivados em causa que contenham ou tenham sido fabricados com madeira, que a madeira foi extraída da floresta após 31 de dezembro de 2020 sem provocar a degradação florestal;
+
+14)
+
+«Produzido», cultivado, colhido, obtido ou criado em parcelas de terreno em causa ou, no caso de bovinos, em estabelecimentos;
+
+15)
+
+«Operador», qualquer pessoa singular ou coletiva que, no âmbito de uma atividade comercial, coloque no mercado ou exporte os produtos derivados em causa;
+
+16)
+
+«Colocação no mercado», a primeira disponibilização de um produto de base em causa ou de um produto derivado em causa no mercado da União;
+
+17)
+
+«Comerciante», qualquer pessoa na cadeia de abastecimento que não seja o operador e que, no âmbito de uma atividade comercial, disponibilize produtos derivados em causa no mercado;
+
+18)
+
+«Disponibilização no mercado», o fornecimento de um produto derivado em causa para distribuição, consumo ou utilização no mercado da União no âmbito de uma atividade comercial, a título oneroso ou gratuito;
+
+19)
+
+«No âmbito de uma atividade comercial», para efeitos de tratamento, para distribuição a consumidores comerciais ou não comerciais, ou para utilização na atividade do próprio operador ou comerciante;
+
+20)
+
+«Pessoa», a pessoa singular, a pessoa coletiva ou qualquer associação de pessoas que não tenha o estatuto jurídico de pessoa coletiva à qual seja reconhecida, ao abrigo do direito da União ou do direito nacional, capacidade para praticar atos jurídicos;
+
+21)
+
+«Pessoa estabelecida na União»:
+
+a)
+
+No caso de uma pessoa singular, qualquer pessoa cuja residência é na União;
+
+b)
+
+No caso de uma pessoa coletiva ou de uma associação de pessoas, qualquer pessoa cuja sede social, administração central ou estabelecimento permanente é na União;
+
+22)
+
+«Mandatário», qualquer pessoa singular ou coletiva estabelecida na União que, nos termos do artigo 6.o, tenha sido mandatada por escrito por um operador ou por um comerciante para praticar determinados atos em seu nome no que diz respeito a obrigações que são impostas ao operador ou ao comerciante por força do presente regulamento;
+
+23)
+
+«País de origem», um país ou território na aceção do artigo 60.o do Regulamento (UE) n.o 952/2013;
+
+24)
+
+«País de produção», o país ou território onde foi produzido o produto de base em causa ou o produto de base em causa utilizado no fabrico de um produto derivado em causa ou nele contido;
+
+25)
+
+«Produtos não conformes», os produtos derivados em causa que não cumprem com o artigo 3.o;
+
+26)
+
+«Risco negligenciável», o nível de risco aplicável aos produtos de base em causa e aos produtos derivados em causa sempre que, com base numa avaliação completa das informações específicas do produto e das informações gerais e, se necessário, da aplicação das medidas de atenuação adequadas, esses produtos de base ou produtos derivados não suscitem motivos de preocupação quanto à não conformidade com o artigo 3.o, alínea a) ou b);
+
+27)
+
+«Parcela de terreno», um terreno dentro de um único bem imóvel, reconhecido pela legislação do país de produção, que beneficia de condições suficientemente homogéneas que permitam uma avaliação do nível agregado de risco de desflorestação e degradação florestal associado aos produtos de base em causa produzidos nesse terreno;
+
+28)
+
+«Geolocalização», a localização geográfica de uma parcela de terreno descrita pelas coordenadas de latitude e longitude correspondentes a, pelo menos, um ponto de latitude e um ponto de longitude e utilizando pelo menos seis dígitos decimais; a localização geográfica de parcelas de terreno com uma extensão superior a quatro hectares usadas para a produção dos produtos de base em causa que não sejam bovinos, é indicada utilizando polígonos, com pontos de latitude e longitude suficientes para descrever o perímetro de cada parcela de terreno;
+
+29)
+
+«Estabelecimento», quaisquer instalações, estruturas ou, no caso da criação ao ar livre, qualquer ambiente ou local onde é mantido o gado, a título temporário ou permanente;
+
+30)
+
+«Micro, pequenas e médias empresas» ou «PME», micro, pequenas e médias empresas na aceção do artigo 3.o da Diretiva 2013/34/UE do Parlamento Europeu e do Conselho (19);
+
+31)
+
+«Preocupação fundamentada», uma alegação devidamente fundamentada, assente em informações objetivas e verificáveis, relativa ao não cumprimento do presente regulamento e que pode exigir a intervenção das autoridades competentes;
+
+32)
+
+«Autoridades competentes», as autoridades designadas em conformidade com o artigo 14.o, n.o 1;
+
+33)
+
+«Autoridades aduaneiras», as autoridades aduaneiras na aceção do artigo 5.o, n.o 1, do Regulamento (UE) n.o 952/2013;
+
+34)
+
+«Território aduaneiro», o território na aceção do artigo 4.o do Regulamento (UE) n.o 952/2013;
+
+35)
+
+«País terceiro», um país ou território situado fora do território aduaneiro da União;
+
+36)
+
+«Introdução em livre prática», o procedimento estabelecido no artigo 201.o do Regulamento (UE) n.o 952/2013;
+
+37)
+
+«Exportação», o procedimento estabelecido no artigo 269.o do Regulamento (UE) n.o 952/2013;
+
+38)
+
+«Produtos derivados em causa que entram no mercado», os produtos derivados em causa provenientes de países terceiros sujeitos ao regime aduaneiro de introdução em livre prática que se destinam a serem colocados no mercado da União e que não se destinam a uma utilização ou consumo privado no território aduaneiro da União;
+
+39)
+
+«Produtos derivados em causa que saem do mercado», os produtos derivados em causa sujeitos ao regime aduaneiro «exportação»;
+
+40)
+
+«Legislação aplicável do país de produção», as leis aplicáveis no país de produção relativas ao estatuto jurídico da zona de produção em termos de:
+
+a)
+
+Direitos de uso do solo;
+
+b)
+
+Proteção do ambiente;
+
+c)
+
+Normas relativas às florestas, incluindo a gestão florestal e a conservação da biodiversidade, quando diretamente relacionadas com a exploração florestal;
+
+d)
+
+Direitos de terceiros;
+
+e)
+
+Direitos laborais;
+
+f)
+
+Direitos humanos protegidos pelo direito internacional;
+
+g)
+
+O princípio do consentimento livre, prévio e informado, nomeadamente conforme estabelecido na Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas;
+
+h)
+
+Regulamentação fiscal, anticorrupção, comercial e aduaneira.
+
+Artigo 3.o
+
+Proibição
+
+Os produtos de base em causa e os produtos derivados em causa não podem ser colocados nem disponibilizados no mercado, nem exportados, a menos que estejam preenchidas todas as seguintes condições:
+
+a)
+
+Não estarem associados à desflorestação;
+
+b)
+
+Terem sido produzidos em conformidade com a legislação aplicável do país de produção; e
+
+c)
+
+Estarem abrangidos por uma declaração de diligência devida.
+
+CAPÍTULO 2
+
+OBRIGAÇÕES DOS OPERADORES E DOS COMERCIANTES
+
+Artigo 4.o
+
+Obrigações dos operadores
+
+1.   Os operadores exercem a diligência devida nos termos do artigo 8.o antes de colocarem no mercado ou de exportarem produtos derivados em causa, a fim de demonstrar que os produtos derivados em causa cumprem com o disposto no artigo 3.o.
+
+2.   Os operadores não podem colocar no mercado nem exportar produtos derivados em causa sem a apresentação prévia de uma declaração de diligência devida. Os operadores que, com base na diligência exercida em conformidade com o artigo 8.o, concluam que os produtos derivados em causa cumprem o artigo 3.o disponibilizam, antes de colocarem no mercado ou exportarem os produtos derivados em causa, uma declaração de diligência devida às autoridades competentes, através do sistema de informação referido no artigo 33.o. Esta declaração de diligência devida, disponível e transmissível eletronicamente, contém as informações previstas no anexo II relativamente aos produtos derivados em causa e uma declaração do operador em como o operador exerceu a diligência devida e que não foi detetado nenhum risco, ou apenas foi detetado um risco negligenciável.
+
+3.   Ao disponibilizar a declaração de diligência devida às autoridades competentes, o operador assume a responsabilidade pela conformidade do produto derivado em causa com o artigo 3.o. Os operadores conservam um registo das declarações de diligência devida durante cinco anos a contar da data em que a declaração é apresentada através do sistema de informação referido no artigo 33.o.
+
+4.   Os operadores não podem colocar no mercado ou exportar os produtos derivados em causa caso se aplique um ou mais dos seguintes casos:
+
+a)
+
+Os produtos derivados em causa são produtos não conformes;
+
+b)
+
+O exercício da diligência devida revelou um risco não negligenciável de que os produtos derivados sejam produtos não conformes;
+
+c)
+
+O operador não foi capaz de cumprir as obrigações a que se referem os n.os 1 e 2.
+
+5.   Os operadores que obtenham ou tenham tomado conhecimento de novas informações pertinentes, incluindo preocupações fundamentadas, que indiquem que um produto derivado em causa que colocaram no mercado está em risco de não cumprir com o presente regulamento, informam imediatamente as autoridades competentes dos Estados-Membros em cujo mercado colocaram o produto derivado em causa, bem como os comerciantes a quem forneceram o produto derivado em causa. No caso de exportações, os operadores informam a autoridade competente do Estado-Membro que é o país de produção.
+
+6.   Os operadores prestam toda a assistência necessária às autoridades competentes para facilitar a realização das verificações referidas no artigo 18.o, nomeadamente o acesso às instalações e a disponibilização de documentos e registos.
+
+7.   Os operadores comunicam aos operadores e comerciantes a jusante da cadeia de abastecimento dos produtos derivados em causa que colocaram no mercado ou exportaram todas as informações necessárias para demonstrar que a diligência devida foi exercida e que não foi detetado nenhum risco ou apenas foi detetado um risco negligenciável, incluindo os números de referência das declarações de diligência devida associadas a esses produtos.
+
+8.   Em derrogação do n.o 1 do presente artigo, os operadores que sejam PME («operadores que sejam PME») não são obrigados a exercer a diligência devida em relação aos produtos derivados em causa contidos ou fabricados a partir de produtos derivados em causa que já tenham sido objeto de diligência devida em conformidade com o n.o 1 do presente artigo, e relativamente aos quais já tenha sido apresentada uma declaração de diligência devida em conformidade com o artigo 33.o. Nesses casos, os operadores que sejam PME comunicam às autoridades competentes o número de referência da declaração de diligência devida existente, mediante pedido. Em relação às partes de produtos derivados em causa que não tenham sido objeto de diligência devida, o operador que seja PME exerce a diligência devida em conformidade com o n.o 1 do presente artigo.
+
+9.   Os operadores que não sejam PME («operadores que não sejam PME») só podem invocar declarações de diligência devida que já tenham sido apresentadas em conformidade com o artigo 33.o depois de se terem certificado de que a diligência devida relativamente aos produtos derivados em causa contidos no produto derivado em causa ou fabricados a partir deste foi exercida em conformidade com o n.o 1 do presente artigo. Os operadores indicam os números de referência dessas declarações de diligência devida que já tenham sido apresentadas em cumprimento do disposto no artigo 33.o nas declarações de diligência devida que apresentem nos termos do n.o 2 do presente artigo. Em relação às partes de produtos em causa que não tenham sido objeto de diligência devida, os operadores que não sejam PME exercem a diligência devida em conformidade com o n.o 1 do presente artigo.
+
+10.   Qualquer operador que invoque uma declaração de diligência devida que já tenha sido apresentada em conformidade com o artigo 33.o continua a ser responsável pela conformidade dos produtos derivados em causa com o artigo 3.o, nomeadamente de não haver nenhum risco ou apenas um risco negligenciável, antes de colocar no mercado ou exportar tais produtos derivados em causa.
+
+Artigo 5.o
+
+Obrigações dos comerciantes
+
+1.   Os comerciantes que não sejam PME («comerciantes que não sejam PME») são considerados operadores que não sejam PME e estão sujeitos às obrigações e disposições dos artigos 3.o, 4.o e 6.o, dos artigos 8.o a 13.o, do artigo 16.o, n.os 8 e 11, e do artigo 18.o, no que diz respeito aos produtos de base em causa e aos produtos derivados em causa que disponibilizam no mercado.
+
+2.   Os comerciantes que sejam PME («comerciantes que sejam PME») podem disponibilizar no mercado produtos derivados em causa apenas se estiverem na posse das informações exigidas no n.o 3.
+
+3.   Os comerciantes que sejam PME recolhem e conservam as seguintes informações relativas aos produtos derivados em causa que tencionam disponibilizar no mercado:
+
+a)
+
+O nome, a denominação comercial ou marca registada, o endereço postal, o endereço de correio eletrónico e, se disponível, o endereço Web dos operadores ou comerciantes que lhes forneceram os produtos derivados em causa, bem como os números de referência das declarações de diligência devida associadas a esses produtos derivados;
+
+b)
+
+O nome, a denominação comercial ou marca registada, o endereço postal, o endereço de correio eletrónico e, se disponível, o endereço Web dos operadores ou dos comerciantes a quem forneceram os produtos derivados em causa.
+
+4.   Os comerciantes que sejam PME conservam as informações mencionadas no n.o 3 durante, pelo menos, cinco anos a contar da data de disponibilização no mercado e disponibilizam, a pedido, essas informações às autoridades competentes.
+
+5.   Os comerciantes que sejam PME e que obtenham ou tenham tomado conhecimento de novas informações pertinentes, incluindo preocupações fundamentadas, que indiquem que um produto derivado em causa que tenham disponibilizado no mercado está em risco de não estar em conformidade com o presente regulamento, informam imediatamente as autoridades competentes dos Estados-Membros em cujo mercado disponibilizaram o produto derivado em causa, bem como os comerciantes a quem forneceram o produto derivado em causa.
+
+6.   Os comerciantes, sejam ou não PME, prestam toda a assistência necessária às autoridades competentes para facilitar a realização das verificações referidas nos artigos 18.o e 19.o, incluindo acesso às instalações e a disponibilização de documentos e registos.
+
+Artigo 6.o
+
+Mandatários
+
+1.   Os operadores ou comerciantes podem nomear um mandatário para, em seu nome, apresentar a declaração de diligência devida nos termos do artigo 4.o, n.o 2. Nesses casos, o operador ou comerciante continua a ser responsável pela conformidade do produto derivado em causa com o disposto no artigo 3.o.
+
+2.   O mandatário fornece, a pedido, às autoridades competentes uma cópia do mandato numa língua oficial da União e uma cópia na língua do Estado-Membro no qual é apresentada a declaração de diligência devida, ou, se tal não for possível, uma cópia em inglês.
+
+3.   O operador que seja uma pessoa singular ou uma microempresa pode mandatar o operador ou comerciante imediatamente a jusante na cadeia de abastecimento que não seja uma pessoa singular nem uma microempresa que atue como mandatário. Este operador ou comerciante imediatamente a jusante na cadeia de abastecimento não pode colocar nem disponibilizar no mercado, nem exportar, produtos derivados em causa sem apresentar a declaração de diligência devida nos termos do artigo 4.o, n.o 2, em nome desse operador. Nesses casos, o operador que seja uma pessoa singular ou uma microempresa continua a ser responsável pela conformidade do produto derivado em causa com o disposto no artigo 3.o e comunica a esse operador ou comerciante imediatamente a jusante na cadeia de abastecimento todas as informações necessárias para confirmar que a diligência devida foi exercida e que não foi detetado nenhum risco ou apenas um risco negligenciável.
+
+Artigo 7.o
+
+Colocação no mercado por operadores estabelecidos em países terceiros
+
+Se uma pessoa singular ou coletiva estabelecida fora da União colocar produtos derivados em causa no mercado, a primeira pessoa singular ou coletiva estabelecida na União que disponibilize no mercado esses produtos derivados em causa é considerada um operador na aceção do presente regulamento.
+
+Artigo 8.o
+
+Diligência devida
+
+1.   Antes de colocarem no mercado ou exportarem produtos derivados em causa, os operadores exercem a diligência devida no que diz respeito a todos os produtos derivados em causa fornecidos por cada fornecedor específico.
+
+2.   A diligência devida inclui:
+
+a)
+
+A recolha das informações, dados e documentos necessários para cumprir os requisitos estabelecidos no artigo 9.o;
+
+b)
+
+As medidas de avaliação do risco a que se refere o artigo 10.o;
+
+c)
+
+As medidas de atenuação do risco a que se refere o artigo 11.o.
+
+Artigo 9.o
+
+Requisitos de informação
+
+1.   Os operadores recolhem informações, documentos e dados que demonstrem que os produtos derivados em causa cumprem com o disposto no artigo 3.o. Para esse efeito, o operador recolhe, organiza e conserva durante cinco anos a contar da data de colocação no mercado ou de exportação dos produtos derivados em causa as seguintes informações, acompanhadas de elementos de prova, relativas a cada produto derivado em causa:
+
+a)
+
+Uma descrição, incluindo a denominação comercial e o tipo de produtos derivados em causa, bem como, no caso de produtos derivados em causa que contenham ou tenham sido fabricados com madeira, a denominação comum da espécie e o seu nome científico completo; a descrição do produto inclui a lista dos produtos de base em causa ou produtos derivados em causa contidos no produto ou utilizados no seu fabrico;
+
+b)
+
+A quantidade dos produtos derivados em causa; no que concerne a produtos derivados em causa que entrem ou saiam do mercado, a quantidade é expressa em quilogramas de massa líquida e, se aplicável, na unidade suplementar indicada no anexo I do Regulamento (CEE) n.o 2658/87 do Conselho (20), tendo por base o código do Sistema Harmonizado indicado, ou, em todos os demais casos, a quantidade é expressa em massa líquida ou, se aplicável, em volume ou em número de unidades; deve ser indicada uma unidade suplementar caso seja definida de forma coerente para todas as subposições possíveis do código do Sistema Harmonizado mencionado na declaração de diligência devida;
+
+c)
+
+O país de produção e, se for caso disso, as partes desse país;
+
+d)
+
+A geolocalização de todas as parcelas de terreno em que foram produzidos os produtos de base em causa que o produto derivado em causa contenha ou a partir dos quais tenha sido fabricado, bem como a data ou período de produção; se o produto derivado em causa contiver ou tiver sido fabricado com algum dos produtos de base em causa produzidos em diferentes parcelas de terreno, deve ser indicada a geolocalização de todas as diferentes parcelas de terreno; qualquer desflorestação ou degradação florestal nas parcelas de terreno em questão impede automaticamente a colocação ou disponibilização no mercado ou a exportação de todos os produtos de base em causa e produtos derivados em causa provenientes dessas parcelas de terreno; para os produtos derivados em causa que contenham ou que tenham sido fabricados com bovinos, e para os produtos derivados em causa que tenham sido alimentados com os produtos derivados em causa, a geolocalização refere-se a todos os estabelecimentos onde os bovinos foram mantidos; para todos os outros produtos em causa do anexo I, a geolocalização refere-se às parcelas de terreno;
+
+e)
+
+O nome, endereço postal e endereço de correio eletrónico de qualquer empresa ou pessoa que lhes tenha fornecido os produtos derivados em causa;
+
+f)
+
+O nome, endereço postal e endereço de correio eletrónico de qualquer empresa, operador ou comerciante a quem tenham sido fornecidos os produtos derivados em causa;
+
+g)
+
+Informações devidamente conclusivas e verificáveis que indiquem que os produtos derivados em causa não estão associados à desflorestação;
+
+h)
+
+Informações devidamente conclusivas e verificáveis de que os produtos de base em causa foram produzidos em conformidade com a legislação aplicável do país de produção, incluindo qualquer disposição que confira o direito de utilização da respetiva zona para efeitos de produção do produto de base em causa.
+
+2.   O operador disponibiliza, a pedido, às autoridades competentes as informações, documentos e dados recolhidos ao abrigo do presente artigo.
+
+Artigo 10.o
+
+Avaliação do risco
+
+1.   Os operadores verificam e analisam as informações recolhidas em conformidade com o artigo 9.o e qualquer outra documentação pertinente. Com base nessas informações e documentação os operadores realizam uma avaliação do risco para determinar se existe um risco de os produtos derivados em causa que tencionam colocar no mercado ou exportar sejam não conformes. Os operadores não podem colocar no mercado nem exportar os produtos derivados em causa a menos que a avaliação do risco revele a inexistência de risco ou apenas a existência de um risco negligenciável de os produtos derivados em causa não estarem em conformidade.
+
+2.   A avaliação do risco tem em conta, em especial, os seguintes critérios:
+
+a)
+
+A atribuição de risco ao país de produção em causa ou a partes desse país, em conformidade com o artigo 29.o;
+
+b)
+
+A presença de florestas no país de produção ou em partes desse país;
+
+c)
+
+A presença de povos indígenas no país de produção, ou em partes desse país;
+
+d)
+
+A consulta e a cooperação de boa-fé com os povos indígenas do país de produção ou em partes desse país;
+
+e)
+
+A existência de reivindicações devidamente fundamentadas por parte dos povos indígenas com base em informações objetivas e verificáveis sobre a utilização ou a propriedade da zona utilizada para efeitos de produção do produto de base em causa;
+
+f)
+
+A prevalência da desflorestação ou degradação florestal no país de produção ou em partes desse país;
+
+g)
+
+A origem, a fiabilidade e a validade das informações mencionadas no artigo 9.o, n.o 1, e ligações a outros documentos disponíveis;
+
+h)
+
+Preocupações relacionadas com o país de produção e de origem ou em partes desses países, como o nível de corrupção, a prevalência de falsificação de documentos e de dados, a falta de fiscalização da aplicação das leis, as violações de direitos humanos internacionais, os conflitos armados ou a presença de sanções impostas pelo Conselho de Segurança das Nações Unidas ou pelo Conselho da União Europeia;
+
+i)
+
+A complexidade da cadeia de abastecimento em causa e a fase de transformação dos produtos derivados em causa, em especial as dificuldades em estabelecer a ligação entre os produtos derivados em causa e a parcela de terreno onde foram produzidos os produtos de base em causa;
+
+j)
+
+O risco de evasão ao presente regulamento ou de combinação com produtos derivados em causa de origem desconhecida ou produzidos em zonas atualmente ou anteriormente alvo de desflorestação ou degradação florestal;
+
+k)
+
+As conclusões das reuniões dos grupos de peritos da Comissão que apoiam a aplicação do presente regulamento, tal como publicadas no registo dos grupos de peritos da Comissão;
+
+l)
+
+Preocupações fundamentadas apresentadas nos termos do artigo 31.o e informações sobre o historial de não cumprimento do presente regulamento por parte dos operadores ou comerciantes ao longo da cadeia de abastecimento em causa;
+
+m)
+
+Quaisquer informações que apontem para o risco de os produtos derivados em causa serem não conformes;
+
+n)
+
+Informações complementares sobre o cumprimento do presente regulamento, que podem incluir informações fornecidas por sistemas de certificação ou outros sistemas de verificação por terceiros, nomeadamente regimes voluntários reconhecidos pela Comissão nos termos do artigo 30.o, n.o 5, da Diretiva (UE) 2018/2001 do Parlamento Europeu e do Conselho (21), desde que as informações satisfaçam os requisitos previstos no artigo 9.o do presente regulamento.
+
+3.   Os produtos de madeira abrangidos pelo âmbito de aplicação do Regulamento (CE) n.o 2173/2005 que estejam abrangidos por uma licença FLEGT válida de um regime de licenciamento operacional são considerados conformes com o artigo 3.o, alínea b), do presente regulamento.
+
+4.   Os operadores devem documentar e rever as avaliações do risco, pelo menos anualmente e, a pedido, disponibilizá-las às autoridades competentes. Os operadores devem poder demonstrar o modo como as informações recolhidas foram analisadas em relação aos critérios de avaliação do risco previstos no n.o 2 e o modo como determinaram o grau de risco.
+
+Artigo 11.o
+
+Atenuação dos riscos
+
+1.   A menos que uma avaliação do risco efetuada em conformidade com o artigo 10.o tenha revelado que o risco de os produtos derivados em causa serem não conformes é nulo ou apenas negligenciável, o operador adota, antes da colocação dos produtos derivados em causa no mercado ou da sua exportação, procedimentos e medidas de atenuação do risco que sejam adequados para alcançar um risco nulo ou apenas negligenciável. Tais procedimentos e medidas podem incluir qualquer um dos seguintes:
+
+a)
+
+A exigência de informações, dados ou documentos suplementares;
+
+b)
+
+A realização de inquéritos ou auditorias independentes;
+
+c)
+
+A tomada de outras medidas relacionadas com os requisitos de informação previstos no artigo 9.o.
+
+Tais procedimentos e medidas podem ainda envolver o apoio ao cumprimento do presente regulamento por parte dos fornecedores desse operador, em especial os pequenos agricultores, através do reforço das capacidades e de investimentos.
+
+2.   Os operadores devem dispor de políticas, controlos e procedimentos adequados e proporcionados para atenuar e gerir eficazmente os riscos de não cumprimento dos produtos derivados em causa identificados. Essas políticas, controlos e procedimentos devem incluir:
+
+a)
+
+Exemplos de práticas de gestão do risco, comunicação de informações, manutenção de registos, controlo interno e gestão da conformidade, incluindo a nomeação de um responsável pela conformidade a nível de direção para os operadores que não sejam PME;
+
+b)
+
+Um serviço de auditoria independente para verificar as políticas, os controlos e os procedimentos internos referidos na alínea a) para todos os operadores que não sejam PME.
+
+3.   As decisões sobre procedimentos e medidas de atenuação do risco devem ser documentadas, revistas pelo menos anualmente e, a pedido, ser disponibilizadas pelos operadores às autoridades competentes. Os operadores devem poder demonstrar como foram tomadas as decisões sobre os procedimentos e as medidas de atenuação do risco.
+
+Artigo 12.o
+
+Criação e manutenção de sistemas de diligência devida, comunicação de informações e conservação de registos
+
+1.   Para exercer a diligência devida em conformidade com o disposto no artigo 8.o, os operadores estabelecem e mantêm atualizado um regime de procedimentos e medidas a fim de assegurar que os produtos derivados em causa que colocam no mercado ou exportam cumprem com o disposto no artigo 3.o («sistema de diligência devida»).
+
+2.   Os operadores devem rever o sistema de diligência devida pelo menos uma vez por ano. Caso os operadores tenham conhecimento de novos acontecimentos suscetíveis de influenciar o sistema de diligência devida, devem atualizar o sistema de diligência devida de modo a ter em conta esses acontecimentos. Os operadores mantêm um registo dessas atualizações no seu sistema de diligência devida durante um período de cinco anos.
+
+3.   Os operadores que não se enquadram nas categorias de PME, incluindo as microempresas, ou de pessoas singulares divulgam, anualmente, a um público o mais alargado possível, inclusive através da Internet, um relatório sobre o seu sistema de diligência devida, nomeadamente sobre as medidas tomadas para cumprir as suas obrigações previstas no artigo 8.o. Os operadores que também sejam abrangidos por outros atos jurídicos da União que estabeleçam requisitos relativos à diligência devida na cadeia de valor podem cumprir as suas obrigações de comunicação de informações previstas no presente número mediante a inclusão das informações exigidas nos relatórios elaborados no contexto desses outros atos jurídicos da União.
+
+4.   Sem prejuízo da legislação da União em matéria de proteção de dados, os relatórios a que se refere o n.o 3 devem incluir as seguintes informações no que respeita aos produtos de base em causa e produtos derivados em causa:
+
+a)
+
+Um resumo das informações referidas no artigo 9.o, n.o 1, alíneas a), b) e c);
+
+b)
+
+As conclusões da avaliação do risco realizada nos termos do artigo 10.o e das medidas tomadas nos termos do artigo 11.o, bem como uma descrição das informações e dos elementos de prova obtidos e utilizados para avaliar o risco;
+
+c)
+
+Se for caso disso, uma descrição do processo de consulta aos povos indígenas, às comunidades locais e a outros titulares de direitos consuetudinários de propriedade fundiária ou às organizações da sociedade civil presentes na área de produção dos produtos de base e produtos derivados em causa.
+
+5.   Os operadores conservam durante, pelo menos, cinco anos toda a documentação relacionada com a diligência devida, nomeadamente todos os registos, medidas e procedimentos previstos no artigo 8.o. Disponibilizam essa documentação, a pedido, às autoridades competentes.
+
+Artigo 13.o
+
+Diligência devida simplificada
+
+1.   Ao colocarem no mercado ou exportarem produtos derivados em causa, os operadores não são obrigados a cumprir as obrigações previstas nos artigos 10.o e 11.o se, após terem avaliado a complexidade da cadeia de abastecimento em causa e o risco de evasão ao presente regulamento ou o risco de combinação com produtos de origem desconhecida ou originários de países ou de partes de países de alto risco ou de risco padrão, se tiverem certificado de que todos os produtos de base em causa e produtos derivados em causa foram produzidos em países ou em partes de países classificados como sendo de baixo risco, em conformidade com o artigo 29.o. Nesses casos, o operador disponibiliza à autoridade competente, a pedido, a documentação pertinente que atesta a existência de um risco negligenciável de evasão ao presente regulamento ou de combinação com produtos de origem desconhecida ou originários de países ou de partes de países de alto risco ou de risco padrão.
+
+2.   Não obstante o disposto no n.o 1 do presente artigo, se o operador obtiver ou tomar conhecimento de quaisquer informações pertinentes, nomeadamente como resultado da avaliação realizada nos termos do n.o 1 do presente artigo, e incluindo preocupações fundamentadas apresentadas nos termos do artigo 31.o, que apontem para um risco de que os produtos derivados em causa não cumprem com o disposto no presente regulamento ou de que o presente regulamento é contornado, o operador cumpre todas as obrigações previstas nos artigos 10.o e 11.o e comunica imediatamente à autoridade competente quaisquer informações pertinentes.
+
+3.   Se tomar conhecimento de informações que apontem para um risco de evasão ao presente regulamento, incluindo nos casos em que os produtos de base em causa ou os produtos derivados em causa produzidos num país de risco padrão ou alto ou numa parte do mesmo subsequentemente transformados num país de baixo risco ou numa parte do mesmo a partir do qual sejam colocados ou saiam do mercado, a autoridade competente toma medidas imediatas em conformidade com o artigo 17.o, n.o 1, e, se for caso disso, adota medidas provisórias em conformidade com o artigo 23.o.
+
+CAPÍTULO 3
+
+OBRIGAÇÕES DOS ESTADOS-MEMBROS E DAS SUAS AUTORIDADES COMPETENTES
+
+Artigo 14.o
+
+Autoridades competentes
+
+1.   Os Estados-Membros designam uma ou mais autoridades competentes responsáveis pelo cumprimento das obrigações decorrentes do presente regulamento.
+
+2.   O mais tardar até 30 de dezembro de 2023, os Estados-Membros comunicam à Comissão os nomes, endereços e contactos das autoridades competentes a que se refere o n.o 1. Os Estados-Membros informam a Comissão, sem demora injustificada, de quaisquer alterações dessas informações.
+
+3.   A Comissão disponibiliza ao público, no seu sítio Web e sem demora injustificada, a lista das autoridades competentes. A Comissão atualiza a lista periodicamente, com base nas atualizações recebidas dos Estados-Membros.
+
+4.   Os Estados-Membros asseguram que as autoridades competentes dispõem dos poderes, da independência funcional e dos recursos necessários para cumprirem as obrigações estabelecidas no presente capítulo.
+
+Artigo 15.o
+
+Assistência técnica, consultadoria e intercâmbio de informações
+
+1.   Sem prejuízo da obrigação dos operadores de exercerem a diligência devida prevista no artigo 8.o, os Estados-Membros podem prestar assistência técnica e outra assistência e orientação aos operadores. A Comissão, em colaboração com os Estados-Membros, pode igualmente prestar, se necessário, orientação aos operadores e às autoridades competentes. A assistência técnica e de outra natureza e a orientação devem ter em conta a situação das PME, incluindo as microempresas e pessoas singulares, a fim de facilitar o cumprimento do presente regulamento, nomeadamente no que diz respeito à conversão de dados de sistemas pertinentes para determinar a geolocalização no sistema de informação a que se refere o artigo 33.o. Devem ter igualmente em conta os atos jurídicos pertinentes atuais e futuros da União que prevejam obrigações de diligência devida.
+
+2.   Os Estados-Membros facilitam o intercâmbio e a divulgação de informações pertinentes, em especial tendo em vista assistir os operadores na avaliação do risco referida no artigo 10.o e sobre as boas práticas quanto à aplicação do presente regulamento.
+
+3.   As autoridades competentes e a Comissão acompanham continuamente e trocam informações sobre qualquer alteração significativa do padrão das trocas comerciais dos produtos derivados em causa que possa conduzir à evasão ao presente regulamento.
+
+4.   A assistência é prestada por forma a não comprometer a independência, as obrigações jurídicas ou as responsabilidades das autoridades competentes para garantir o cumprimento do presente regulamento.
+
+5.   A Comissão pode facilitar a execução harmonizada do presente regulamento, emitindo orientações pertinentes e promovendo um intercâmbio adequado de informações, a coordenação e a cooperação entre as autoridades competentes, entre as autoridades competentes e as autoridades aduaneiras e entre as autoridades competentes e a Comissão.
+
+Artigo 16.o
+
+Obrigação de realização de verificações
+
+1.   As autoridades competentes realizam verificações no seu território para apurar se os operadores e comerciantes estabelecidos na União cumprem com o disposto no presente regulamento. As autoridades competentes realizam verificações no seu território para apurar se os produtos derivados em causa que o operador ou comerciante tenha colocado ou tencione colocar no mercado, que tenha disponibilizado ou tencione disponibilizar no mercado, ou que tenha exportado ou tencione exportar, cumprem com o disposto no presente regulamento.
+
+2.   As verificações referidas no n.o 1 do presente artigo são realizadas em conformidade com os artigos 18.o e 19.o.
+
+3.   As autoridades competentes usam uma abordagem baseada no risco para determinar as verificações a efetuar. Os critérios de risco são identificados com base numa análise dos riscos de não cumprimento do presente regulamento, tendo em conta, em especial, os produtos de base em causa, a complexidade e a extensão das cadeias de abastecimento, nomeadamente se envolve a combinação de produtos derivados em causa, e a fase de transformação do produto derivado em causa, se as parcelas de terreno em causa são adjacentes a florestas, a atribuição de riscos a países ou a partes de países em conformidade com o artigo 29.o, com especial atenção para a situação dos países ou a partes de países classificados como sendo de alto risco, o historial de não cumprimento do presente regulamento por parte dos operadores ou comerciantes, os riscos de evasão e quaisquer outras informações pertinentes. A análise dos riscos baseia-se na informação a que se refere os artigos 9.o e 10.o, pode basear-se nas informações constantes do sistema de informação referido no artigo 33.o e pode ser apoiada por outras fontes pertinentes, tais como dados de monitorização, perfis de risco de organizações internacionais, preocupações fundamentadas apresentadas ao abrigo do artigo 31.o ou conclusões de reuniões de grupos de peritos da Comissão.
+
+4.   Se for caso disso, a Comissão estabelece, revê e atualiza periodicamente os critérios de risco indicativos a nível da União, em conformidade com o n.o 3, e comunica-os às autoridades competentes.
+
+5.   Para o efeito de realização das verificações mencionadas no n.o 1, as autoridades competentes elaboram planos anuais que incluem, pelo menos:
+
+a)
+
+Os critérios nacionais de risco, estabelecidos em conformidade com o n.o 3, para os efeitos de determinar as verificações que são necessárias, os quais se baseiam em qualquer critério de risco indicativo a nível da União estabelecido pela Comissão nos termos do n.o 4 e incluem sistematicamente critérios de risco em relação a países ou partes de países classificados como sendo de alto risco;
+
+b)
+
+A seleção dos operadores e comerciantes a verificar; essa seleção deve basear-se nos critérios nacionais de risco a que se refere a alínea a), utilizando, nomeadamente, informações constantes do sistema de informação a que se refere o artigo 33.o e técnicas de processamento eletrónico de dados; para cada operador ou comerciante a verificar, as autoridades competentes podem identificar as declarações específicas de diligência devida a verificar.
+
+6.   A revisão anual dos planos pelas autoridades competentes baseia-se sistematicamente nos resultados das verificações e na experiência adquirida com a execução dos planos a que se refere o n.o 5, a fim de melhorar a sua eficácia.
+
+7.   As autoridades competentes comunicam os seus planos de verificações, bem como as respetivas atualizações, às outras autoridades competentes e à Comissão. As autoridades competentes trocam informações e coordenam o desenvolvimento e a aplicação dos critérios de risco a que se refere o n.o 5 com as autoridades competentes de outros Estados-Membros e com a Comissão, a fim de melhorar a eficácia da aplicação do presente regulamento.
+
+8.   Os Estados-Membros asseguram que as verificações anuais realizadas pelas suas autoridades competentes nos termos do n.o 1 do presente artigo abranjam pelo menos 3 % dos operadores que coloquem ou disponibilizem no mercado ou exportem produtos derivados em causa que contenham ou tenham sido fabricados com produtos de base em causa produzidos num país ou partes de um país classificado como sendo de risco padrão, em conformidade com o artigo 29.o.
+
+9.   Os Estados-Membros asseguram que as verificações anuais realizadas pelas suas autoridades competentes nos termos do n.o 1 do presente artigo abranjam pelo menos 9 % dos operadores que coloquem ou disponibilizem no mercado ou exportem produtos derivados em causa que contenham ou tenham sido fabricados com produtos de base em causa, bem como 9 % da quantidade de cada um dos produtos derivados em causa que contenham ou tenham sido fabricados com produtos de base em causa produzidos num país ou partes de um país classificados como sendo de alto risco em conformidade com o artigo 29.o.
+
+10.   Os Estados-Membros asseguram que as verificações anuais realizadas pelas suas autoridades competentes, nos termos do n.o 1 do presente artigo, abranjam pelo menos 1 % dos operadores que coloquem ou disponibilizem no mercado ou exportem produtos derivados em causa que contenham ou tenham sido fabricados com produtos de base em causa produzidos num país ou partes de um país classificado como sendo de baixo risco, em conformidade com o artigo 29.o.
+
+11.   Os objetivos quantificados das verificações a realizar pelas autoridades competentes são alcançados separadamente para cada um dos produtos de base em causa. Os objetivos quantificados são calculados por referência ao número total de operadores que, no ano anterior, tenham colocado ou disponibilizado no mercado ou exportado produtos derivados em causa, e à quantidade, se for caso disso. Considera-se que os operadores foram inspecionados se a autoridade competente tiver verificado os elementos a que se refere o artigo 18.o, n.o 1, alíneas a) e b).
+
+12.   Sem prejuízo das verificações planeadas antecipadamente em conformidade com o n.o 5 do presente artigo, as autoridades competentes efetuam as verificações mencionadas no n.o 1 do presente artigo quando obtiverem ou tomarem conhecimento de informações pertinentes, inclusivamente em função das preocupações fundamentadas apresentadas por terceiros nos termos do artigo 31.o, quanto a um eventual caso de não cumprimento do presente regulamento.
+
+13.   As verificações são efetuadas sem aviso prévio ao operador ou comerciante, exceto quando a notificação prévia do operador ou comerciante for necessária para assegurar a eficácia das verificações.
+
+14.   As autoridades competentes mantêm registos das verificações, indicando, designadamente, a sua natureza e resultados, bem como as medidas tomadas em caso de não cumprimento. Os registos de todas as verificações são conservados durante pelo menos dez anos.
+
+15.   Os registos das verificações realizadas nos termos do presente regulamento, assim como os relatórios das respetivas conclusões, constituem informações sobre ambiente para efeitos da Diretiva 2003/4/CE do Parlamento Europeu e do Conselho (22) e devem ser disponibilizados a pedido.
+
+Artigo 17.o
+
+Produtos derivados em causa que exijam medidas imediatas
+
+1.   As autoridades competentes identificam situações em que os produtos derivados em causa apresentem um risco tão elevado de não cumprimento do artigo 3.o que exijam medidas imediatas por parte das autoridades competentes antes de esses produtos derivados em causa serem colocados ou disponibilizados no mercado ou exportados. As autoridades competentes registam essas situações identificadas no sistema de informação a que se refere o artigo 33.o.
+
+2.   Quando as autoridades competentes identificam as situações referidas no n.o 1 do presente artigo, nomeadamente quando um operador submete uma declaração de diligência devida relativa aos produtos derivados em causa que estejam em questão, o sistema de informação a que se refere o artigo 33.o determina o elevado risco de não cumprimento do artigo 3.o e informa as autoridades competentes, as quais:
+
+a)
+
+Tomam medidas provisórias imediatas, nos termos do artigo 23.o, para suspender a colocação ou disponibilização no mercado desses produtos derivados em causa; ou
+
+b)
+
+Uma vez criada a interface eletrónica a que se refere o artigo 28.o, n.o 1, exigem, no caso de produtos derivados em causa que entram ou saem do mercado, que as autoridades aduaneiras suspendam a introdução em livre prática ou exportação desses produtos derivados em causa, nos termos do artigo 26.o, n.o 7.
+
+3.   As suspensões referidas no n.o 2 do presente artigo terminam no prazo de três dias úteis, ou de 72 horas no caso de produtos derivados em causa perecíveis, a contar do momento em que o elevado risco de não cumprimento for detetado no sistema de informação a que se refere o artigo 33.o. Sempre que as autoridades competentes concluam, com base no resultado das verificações realizadas nesse período, que precisam de mais tempo para determinar se os produtos derivados em causa cumprem o artigo 3.o, prorrogam o prazo de suspensão por períodos adicionais de três dias úteis, através de medidas provisórias adicionais tomadas nos termos do artigo 23.o ou, no caso dos produtos derivados em causa que entrem ou saiam do mercado, através da notificação das autoridades aduaneiras da necessidade de manter a suspensão nos termos do artigo 26.o, n.o 7.
+
+Artigo 18.o
+
+Verificações aos operadores e aos comerciantes que não sejam PME
+
+1.   As verificações aos operadores e aos comerciantes que não sejam PME, incluem:
+
+a)
+
+O exame do seu sistema de diligência devida, incluindo a avaliação do risco e os procedimentos de atenuação do risco, e da documentação e dos registos que demonstrem o bom funcionamento do sistema de diligência devida;
+
+b)
+
+O exame da documentação e dos registos que demonstrem que um produto derivado em causa específico que o operador colocou ou tenciona colocar no mercado ou que exportou ou tenciona exportar, ou que o comerciante que não seja PME disponibilizou ou tenciona disponibilizar no mercado, cumpre com o disposto no presente regulamento, nomeadamente, quando aplicável, através de medidas de atenuação do risco, bem como o exame das declarações de diligência devida pertinentes.
+
+2.   Nos casos específicos em que os exames a que se refere o n.o 1 tenham levantado dúvidas, as verificações aos operadores e aos comerciantes que não sejam PME podem também incluir, se for caso disso:
+
+a)
+
+O exame no terreno dos produtos de base ou produtos derivados em causa, a fim de apurar a sua correspondência com a documentação utilizada para o exercício da diligência devida;
+
+b)
+
+O exame das medidas corretivas tomadas nos termos do artigo 24.o;
+
+c)
+
+Quaisquer meios técnicos e científicos adequados para determinar as espécies ou o local exato onde o produto de base em causa ou o produto derivado em causa foi produzido, incluindo análises anatómicas, químicas ou de ADN;
+
+d)
+
+Quaisquer meios técnicos e científicos adequados para determinar se os produtos derivados em causa não estão associados à desflorestação, incluindo dados de observação da Terra, nomeadamente do programa e ferramentas Copernicus ou de outras fontes públicas e privadas pertinentes disponíveis; e
+
+e)
+
+Verificações aleatórias, incluindo auditorias no terreno, nomeadamente, caso se justifique, em países terceiros, sob reserva de acordo desses países terceiros, em cooperação com as respetivas autoridades administrativas.
+
+Artigo 19.o
+
+Verificações aos comerciantes que sejam PME
+
+1.   As verificações aos comerciantes que sejam PME incluem o exame da documentação e dos registos que comprovem o cumprimento do disposto no artigo 5.o, n.os 2, 3 e 4.
+
+2.   As verificações aos comerciantes que sejam PME podem também incluir, se for caso disso, nomeadamente nos casos em que os exames referidos no n.o 1 tenham levantado dúvidas, verificações no terreno, inclusive auditorias no terreno.
+
+Artigo 20.o
+
+Recuperação de custos pelas autoridades competentes
+
+1.   Os Estados-Membros podem autorizar as suas autoridades competentes a recuperar, junto dos operadores ou comerciantes, a totalidade dos custos das suas atividades no que respeita aos casos de não conformidade.
+
+2.   Os custos a que se refere o n.o 1 podem incluir os custos decorrentes da realização de ensaios, de armazenagem e das atividades relacionadas com produtos derivados em causa considerados produtos não conformes e sujeitos a medidas corretivas tomadas antes da introdução desses produtos derivados em causa em livre prática, da sua colocação no mercado ou da sua exportação.
+
+Artigo 21.o
+
+Cooperação e troca de informações
+
+1.   As autoridades competentes cooperam entre si, com as autoridades aduaneiras do seu Estado-Membro, com as autoridades competentes e as autoridades aduaneiras de outros Estados-Membros, com a Comissão e, se necessário, com as autoridades administrativas de países terceiros para garantir o cumprimento do presente regulamento, nomeadamente no que toca à execução de auditorias no terreno.
+
+2.   As autoridades competentes celebram acordos administrativos com a Comissão no que diz respeito à transmissão de informações sobre as investigações e à condução das investigações.
+
+3.   As autoridades competentes trocam as informações necessárias para a aplicação do presente regulamento, nomeadamente através do sistema de informação a que se refere o artigo 33.o. Tal inclui a concessão de acesso a dados e o intercâmbio dos mesmos sobre operadores e comerciantes, incluindo declarações de diligência devida, e sobre a natureza e os resultados das verificações realizadas, com as autoridades competentes de outros Estados-Membros, a fim de facilitar a aplicação do presente regulamento.
+
+4.   As autoridades competentes alertam imediatamente as autoridades competentes de outros Estados-Membros e a Comissão sempre que detetarem quaisquer eventuais casos de não conformidade com o presente regulamento e lacunas graves que possam afetar mais do que um Estado-Membro. As autoridades competentes informam, nomeadamente, as autoridades competentes de outros Estados-Membros sempre que detetarem no mercado um produto derivado em causa que considerem ser um produto não conforme, a fim de permitir a retirada ou a recolha desse produto do mercado de todos os Estados-Membros.
+
+5.   A pedido de uma autoridade competente, os Estados-Membros facultam-lhe as informações necessárias para garantir o cumprimento do presente regulamento.
+
+Artigo 22.o
+
+Comunicação de informações
+
+1.   Até 30 de abril de cada ano, os Estados-Membros disponibilizam ao público e à Comissão informações sobre a aplicação do presente regulamento durante o ano civil anterior. Essas informações incluem:
+
+a)
+
+Os planos de verificações e os critérios de risco em que aqueles se basearam;
+
+b)
+
+O número e os resultados das verificações efetuadas aos operadores, aos comerciantes que não sejam PME e outros comerciantes em relação ao número total de operadores, comerciantes que não sejam PME e outros comerciantes, incluindo as modalidades de não cumprimento detetadas;
+
+c)
+
+A quantidade dos produtos derivados em causa inspecionados em relação à quantidade total de produtos derivados em causa colocados no mercado ou exportados e os países de produção; para os produtos derivados em causa que entrem ou saiam do mercado, a quantidade é expressa em quilogramas de massa líquida e, se aplicável, na unidade suplementar indicada no anexo I do Regulamento (CEE) n.o 2658/87 do Conselho, tendo por base o código do Sistema Harmonizado indicado, ou, em todos os demais casos, a quantidade é expressa em massa líquida ou, quando aplicável, em volume líquido, ou em número de unidades; deve ser aplicada uma unidade suplementar caso seja definida de forma coerente para todas as subposições possíveis do código do Sistema Harmonizado referido na declaração de diligência devida;
+
+d)
+
+Em caso de não cumprimento, as medidas corretivas tomadas nos termos do artigo 24.o e as sanções impostas nos termos do artigo 25.o;
+
+e)
+
+A percentagem de verificações efetuadas com aviso prévio nos termos do artigo 16.o, n.o 13, devendo esta modalidade ser justificada pelas autoridades competentes nos seus relatórios de verificação.
+
+2.   Até 30 de outubro de cada ano, os serviços da Comissão publicam um resumo à escala da União da aplicação do presente regulamento, com base nos dados facultados pelos Estados-Membros nos termos do n.o 1.
+
+Artigo 23.o
+
+Medidas provisórias
+
+Os Estados-Membros preveem a possibilidade de as suas autoridades competentes tomarem medidas provisórias imediatas, incluindo a apreensão de produtos de base em causa ou produtos derivados em causa ou a suspensão da colocação ou disponibilização no mercado ou a exportação dos produtos de base em causa ou dos produtos derivados em causa, sempre que tenham sido detetados eventuais casos de não cumprimento do presente regulamento com base:
+
+a)
+
+No exame dos elementos de prova ou de outras informações pertinentes, nomeadamente informações trocadas nos termos do artigo 21.o ou preocupações fundamentadas apresentadas nos termos do artigo 31.o;
+
+b)
+
+Nas verificações a que se referem os artigos 18.o e 19.o;
+
+c)
+
+Na identificação de riscos pelo sistema de informação referido no artigo 33.o.
+
+Se necessário, os Estados-Membros informam imediatamente dessas medidas a Comissão e as autoridades competentes dos restantes Estados-Membros.
+
+Artigo 24.o
+
+Medidas corretivas em caso de não cumprimento
+
+1.   Sem prejuízo do artigo 25.o, se determinarem que um operador ou comerciante não tenha cumprido o presente regulamento ou que um produto derivado em causa colocado ou disponibilizado no mercado ou exportado é não conforme, as autoridades competentes exigem sem demora ao operador ou comerciante que tome medidas corretivas adequadas e proporcionadas para pôr termo ao não cumprimento num prazo especificado e razoável.
+
+2.   Para efeitos do n.o 1, as medidas corretivas impostas ao operador ou comerciante incluem, pelo menos, uma das seguintes medidas, conforme o caso:
+
+a)
+
+Retificar qualquer incumprimento formal, nomeadamente dos requisitos do capítulo 2;
+
+b)
+
+Evitar que o produto derivado em causa seja colocado ou disponibilizado no mercado ou exportado;
+
+c)
+
+Retirar ou recolher de imediato o produto derivado em causa;
+
+d)
+
+Doar o produto derivado em causa para fins de caridade ou de interesse público ou, se tal não for possível, eliminá-lo em conformidade com o direito da União em matéria de gestão de resíduos.
+
+3.   Independentemente das medidas corretivas adotadas nos termos do n.o 2, o operador ou o comerciante deve dar resposta a quaisquer insuficiências do sistema de diligência devida com vista a atenuar o risco de novas situações de não cumprimento do presente regulamento.
+
+4.   Se o operador ou comerciante não tomar as medidas corretivas a que se refere o n.o 2 no prazo especificado pelas autoridades competentes nos termos do n.o 1, ou se o incumprimento a que se refere o n.o 1 persistir, decorrido esse prazo as autoridades competentes providenciam a aplicação da medida corretiva requerida a que se refere o n.o 2 por todos os meios à sua disposição nos termos da lei do Estado-Membro em causa.
+
+Artigo 25.o
+
+Sanções
+
+1.   Sem prejuízo das obrigações dos Estados-Membros ao abrigo da Diretiva 2008/99/CE do Parlamento Europeu e do Conselho (23), os Estados-Membros estabelecem as regras relativas às sanções aplicáveis em caso de violação do disposto no presente regulamento por parte dos operadores e comerciantes e tomam todas as medidas necessárias para garantir a sua aplicação. Os Estados-Membros notificam a Comissão, sem demora, dessas regras e dessas medidas e também de qualquer alteração ulterior.
+
+2.   As sanções previstas no n.o 1 são efetivas, proporcionadas e dissuasivas. Essas sanções incluem:
+
+a)
+
+Coimas proporcionais aos danos ambientais e ao valor dos produtos de base ou produtos derivados em causa, sendo o nível das coimas calculado de modo a privar efetivamente os infratores dos benefícios económicos decorrentes das infrações que tenham cometido e, em caso de infração reiterada, aumentando gradualmente o nível das coimas; no caso de uma pessoa coletiva, o montante máximo dessa coima é, pelo menos, 4 % do volume de negócios total anual do operador ou comerciante à escala da União no exercício financeiro anterior à decisão de aplicação de coimas, calculado em conformidade com o cálculo do volume de negócios total das empresas previsto no artigo 5.o, n.o 1, do Regulamento (CE) n.o 139/2004 do Conselho (24), e majorado, se necessário, de modo a exceder o potencial benefício económico obtido;
+
+b)
+
+Confisco dos produtos derivados em causa junto do operador e/ou do comerciante;
+
+c)
+
+Confisco das receitas obtidas pelo operador e/ou pelo comerciante numa transação com os produtos derivados em causa;
+
+d)
+
+Exclusão temporária por um período máximo de 12 meses dos processos de contratação pública e do acesso ao financiamento público, incluindo procedimentos de concurso, subvenções e concessões;
+
+e)
+
+Proibição temporária da colocação ou disponibilização no mercado ou da exportação dos produtos de base em causa e produtos derivados em causa, em caso de infração grave ou de infração reiterada;
+
+f)
+
+Proibição do exercício da diligência devida simplificada previsto no artigo 13.o, em caso de infração grave ou de infração reiterada.
+
+3.   Os Estados-Membros notificam a Comissão da sentença transitada em julgado contra pessoas coletivas por infração ao presente regulamento e das sanções que lhes são impostas no prazo de 30 dias a contar da data em que a decisão judicial transite em julgado, tendo em conta as regras aplicáveis em matéria de proteção de dados. A Comissão publica no seu sítio Web uma lista dessas sentenças, discriminando os seguintes elementos:
+
+a)
+
+O nome da pessoa coletiva;
+
+b)
+
+A data da sentença transitada em julgado;
+
+c)
+
+Um resumo das atividades pelas quais foi constatada a violação do disposto no presente regulamento por parte da pessoa coletiva; e
+
+d)
+
+A natureza da sanção imposta e, em caso de sanção pecuniária, o respetivo montante.
+
+CAPÍTULO 4
+
+PROCEDIMENTOS APLICÁVEIS AOS PRODUTOS DERIVADOS EM CAUSA QUE ENTREM OU SAIAM DO MERCADO
+
+Artigo 26.o
+
+Controlos
+
+1.   Os produtos derivados em causa sujeitos ao regime aduaneiro «introdução em livre prática» ou «exportação» são sujeitos aos controlos e medidas previstos no presente capítulo. A aplicação do presente capítulo não prejudica nenhuma das disposições do presente regulamento nem outros atos jurídicos da União que regulem a introdução em livre prática ou a exportação de mercadorias, nomeadamente o Regulamento (UE) n.o 952/2013 do Parlamento Europeu e do Conselho e os seus artigos 46.o, 47.o, 134.o e 267.o. O capítulo VII do Regulamento (UE) 2019/1020 não se aplica, contudo, aos controlos de produtos derivados em causa que entrem no mercado no que diz respeito à aplicação e execução do presente regulamento.
+
+2.   As autoridades competentes são responsáveis pela aplicação geral do presente regulamento no que diz respeito aos produtos derivados em causa que entrem ou saiam do mercado. Em especial, as autoridades competentes são responsáveis, em conformidade com o artigo 16.o, por determinar as verificações a realizar com base numa abordagem baseada no risco e por apurar, através das verificações referidas no artigo 16.o, se os produtos derivados em causa cumprem com o artigo 3.o. As autoridades competentes desempenham essas responsabilidades em conformidade com as disposições pertinentes do capítulo 3.
+
+3.   Sem prejuízo do disposto no n.o 2 do presente artigo, as autoridades aduaneiras efetuam controlos das declarações aduaneiras apresentadas em relação aos produtos derivados em causa que entram ou saem do mercado, em conformidade com os artigos 46.o e 48.o do Regulamento (UE) n.o 952/2013. Estes controlos baseiam-se principalmente numa análise de risco, tal como estabelecido no artigo 46.o, n.o 2, do Regulamento (UE) n.o 952/2013.
+
+4.   O número de referência da declaração de diligência devida é disponibilizado às autoridades aduaneiras antes da introdução em livre prática ou da exportação dos produtos derivados em causa que entrem ou saiam do mercado. Para o efeito, exceto se a declaração de diligência devida for disponibilizada através da interface eletrónica a que se refere o artigo 28.o, n.o 2, a pessoa que apresenta a declaração aduaneira de introdução em livre prática ou de exportação dos produtos derivados em causa disponibiliza às autoridades aduaneiras o número de referência da declaração de diligência devida atribuído a esse produto derivado em causa pelo sistema de informação a que se refere o artigo 33.o.
+
+5.   A fim de ter em conta a conformidade com o presente regulamento ao autorizar a introdução em livre prática ou a exportação de produtos derivados em causa:
+
+a)
+
+Até à criação da interface eletrónica a que se refere o artigo 28.o, n.o 1, os n.os 6 a 9 do presente artigo não são aplicáveis, e as autoridades aduaneiras trocam informações e cooperam com as autoridades competentes nos termos do artigo 27.o, e, se necessário, têm em conta esse intercâmbio de informações e essa cooperação ao autorizarem a introdução em livre prática ou a exportação dos produtos derivados em causa;
+
+b)
+
+Uma vez criada a interface eletrónica a que se refere o artigo 28.o, n.o 1, são aplicáveis os n.os 6 a 9 do presente artigo, e as notificações e os pedidos ao abrigo dos n.os 6 a 9 do presente artigo processam-se através dessa interface eletrónica.
+
+6.   Ao efetuarem controlos da declaração aduaneira de introdução em livre prática ou de exportação de produtos derivados em causa que entrem ou saiam do mercado, as autoridades aduaneiras examinam, através da interface eletrónica a que se refere o artigo 28.o, n.o 1, o estatuto atribuído à respetiva declaração de diligência devida pelas autoridades competentes no sistema de informação a que se refere o artigo 33.o.
+
+7.   Sempre que o estatuto a que se refere o n.o 6 do presente artigo indicar que os produtos derivados em causa que entram ou saem do mercado foram identificados, nos termos do artigo 17.o, n.o 2, como exigindo uma verificação antes de serem colocados ou disponibilizados no mercado ou exportados, as autoridades aduaneiras suspendem a introdução em livre prática ou a exportação desses produtos derivados em causa.
+
+8.   Sempre que todos os outros requisitos e formalidades previstos no direito da União ou nacional relativos à introdução em livre prática ou à exportação tenham sido preenchidos, as autoridades aduaneiras autorizam a introdução em livre prática ou exportação dos produtos derivados em causa que entrem ou saiam do mercado em qualquer uma das circunstâncias seguintes:
+
+a)
+
+O estatuto a que se refere o n.o 6 do presente artigo não indica que esses produtos derivados em causa foram identificados, nos termos do artigo 17.o, n.o 2, como exigindo uma verificação antes de serem colocados ou disponibilizados no mercado ou exportados;
+
+b)
+
+A introdução em livre prática ou a exportação tenha sido suspensa em conformidade com o n.o 7 do presente artigo, e as autoridades competentes não tenham solicitado a manutenção da suspensão em conformidade com o artigo 17.o, n.o 3;
+
+c)
+
+A introdução em livre prática ou a exportação tenha sido suspensa em conformidade com o n.o 7 e as autoridades competentes tenham notificado as autoridades aduaneiras de que a suspensão da introdução em livre prática ou da exportação dos produtos derivados em causa pode ser levantada.
+
+9.   Sempre que concluam que os produtos derivados em causa que entram ou saem do mercado seja não conforme, as autoridades competentes notificam as autoridades aduaneiras em conformidade e as autoridades aduaneiras não autorizam a introdução em livre prática nem a exportação dos produtos derivados em causa.
+
+10.   A introdução em livre prática ou a exportação não é considerada prova de conformidade com o direito da União e, em particular, com o presente regulamento.
+
+Artigo 27.o
+
+Cooperação e intercâmbio de informações entre as autoridades
+
+1.   Para permitir a abordagem baseada no risco referida no artigo 16.o, n.o 5, para os produtos derivados em causa que entrem ou saiam do mercado e garantir que as verificações são eficazes e realizadas em conformidade com o presente regulamento, a Comissão, as autoridades competentes e as autoridades aduaneiras cooperam estreitamente e trocam informações entre si.
+
+2.   As autoridades aduaneiras e as autoridades competentes cooperam em conformidade com o artigo 47.o, n.o 2, do Regulamento (UE) n.o 952/2013 e trocam as informações necessárias ao desempenho das suas funções ao abrigo do presente regulamento, inclusive por via eletrónica.
+
+3.   As autoridades aduaneiras podem comunicar à autoridade competente do Estado-Membro em que o operador, comerciante ou mandatário estiver estabelecido, em conformidade com o artigo 12.o, n.o 1, do Regulamento (UE) n.o 952/2013, as informações confidenciais obtidas pelas autoridades aduaneiras no exercício das suas competências ou fornecidas às autoridades aduaneiras a título confidencial.
+
+4.   Sempre que as autoridades competentes tiverem recebido informações em conformidade com o presente artigo, podem comunicá-las às autoridades competentes de outros Estados-Membros em conformidade com o artigo 21.o, n.o 3.
+
+5.   As informações sobre riscos são trocadas entre:
+
+a)
+
+As autoridades aduaneiras, em conformidade com o artigo 46.o, n.o 5, do Regulamento (UE) n.o 952/2013;
+
+b)
+
+As autoridades aduaneiras e a Comissão, em conformidade com o artigo 47.o, n.o 2, do Regulamento (UE) n.o 952/2013;
+
+c)
+
+As autoridades aduaneiras e as autoridades competentes, incluindo autoridades competentes de outros Estados-Membros, em conformidade com o artigo 47.o, n.o 2, do Regulamento (UE) n.o 952/2013.
+
+Artigo 28.o
+
+Interface eletrónica
+
+1.   A Comissão desenvolve uma interface eletrónica, baseada no Ambiente de Janela Única Aduaneira da União Europeia, estabelecido pelo Regulamento (UE) 2022/2399 do Parlamento Europeu e do Conselho (25), para permitir a transmissão de dados, nomeadamente das notificações e dos pedidos referidos no artigo 26.o, n.os 6 a 9 do presente regulamento, entre os sistemas aduaneiros nacionais e o sistema de informação a que se refere o artigo 33.o. Esta interface eletrónica deve estar operacional até 30 de junho de 2028.
+
+2.   A Comissão desenvolve uma interface eletrónica nos termos do artigo 12.o do Regulamento (UE) 2022/2399 que permita:
+
+a)
+
+Que os operadores e comerciantes cumpram a obrigação de apresentar a declaração de diligência devida de um produto de base em causa ou produto derivado em causa nos termos do artigo 4.o do presente regulamento, disponibilizando-a através do ambiente de janela única aduaneira nacional a que se refere o artigo 8.o do Regulamento (UE) 2022/2399 e recebam reações das autoridades competentes a seu respeito; e
+
+b)
+
+A transmissão dessa declaração de diligência devida ao sistema de informação referido no artigo 33.o.
+
+3.   A Comissão adota atos de execução que especifiquem as disposições para a execução dos n.os 1 e 2 do presente artigo e definam, em especial, os dados a transmitir nos termos dos n.os 1 e 2 do presente artigo, inclusive o respetivo formato. Os atos de execução também esclarecem de que forma quaisquer alterações no estatuto atribuído pelas autoridades competentes às declarações de diligência devida no sistema de informação a que se refere o artigo 33.o devem ser comunicadas imediata e automaticamente às autoridades aduaneiras pertinentes através da interface eletrónica a que se refere o n.o 1 do presente artigo. Os atos de execução podem também determinar que certos dados específicos disponíveis na declaração de diligência devida e necessários para as atividades das autoridades aduaneiras, incluindo a vigilância e a luta contra a fraude, sejam transmitidos e registados nos sistemas aduaneiros nacionais e da União. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 36.o, n.o 2.
+
+CAPÍTULO 5
+
+SISTEMA DE AVALIAÇÃO COMPARATIVA DOS PAÍSES E COOPERAÇÃO COM PAÍSES TERCEIROS
+
+Artigo 29.o
+
+Avaliação dos países
+
+1.   O presente regulamento estabelece um sistema de três etapas para a avaliação de países ou partes de países. Para esse efeito, os Estados-Membros e os países terceiros, ou partes desses países, são classificados numa das seguintes categorias de risco:
+
+a)
+
+«De alto risco», países ou partes de países relativamente aos quais a avaliação a que se refere o n.o 3 determina um risco elevado de produzir, nesses países ou em partes desses países, produtos de base em causa que resultam em produtos derivados em causa que cumprem com o disposto no artigo 3.o, alínea a);
+
+b)
+
+«De baixo risco», países ou partes de países relativamente aos quais a avaliação a que se refere o n.o 3 conclui que existem garantias suficientes de que os casos de produção nesses países, ou em partes desses países, de produtos de base em causa que resultem em produtos derivados em causa que não cumprem com o disposto no artigo 3.o, alínea a), são excecionais;
+
+c)
+
+«De risco padrão», países ou partes de países que não se enquadram na categoria «de alto risco» nem na categoria «de baixo risco».
+
+2.   Em 29 de junho de 2023, será atribuído a todos os países um nível de risco padrão. A Comissão classifica os países, ou partes de países, que apresentem um risco baixo ou alto nos termos do n.o 1. A lista de países, ou de partes de países, que apresentam um risco baixo ou alto é publicada por meio de atos de execução a adotar em conformidade com o procedimento de exame referido no artigo 36.o, n.o 2, o mais tardar até 30 de dezembro de 2024. Essa lista deve ser revista e atualizada, se for caso disso, as vezes necessárias à luz de novos elementos de prova.
+
+3.   A classificação de países ou de partes de países como sendo de baixo risco e de alto risco nos termos do n.o 1 baseia-se numa avaliação objetiva e transparente efetuada pela Comissão, tendo em conta os dados científicos mais recentes e fontes internacionalmente reconhecidas. A classificação baseia-se principalmente nos seguintes critérios de avaliação:
+
+a)
+
+A taxa de desflorestação e degradação florestal;
+
+b)
+
+A taxa de expansão das terras agrícolas dedicadas aos produtos de base em causa;
+
+c)
+
+As tendências de produção dos produtos de base e produtos derivados em causa.
+
+4.   A avaliação referida no n.o 3 tem igualmente em conta:
+
+a)
+
+As informações prestadas pelo país em causa, pelas autoridades regionais em causa, operadores, ONG, e terceiros, incluindo os povos indígenas, as comunidades locais e as organizações da sociedade civil, no que diz respeito à cobertura efetiva das emissões e remoções provenientes da agricultura, da silvicultura e do uso dos solos no contributo determinado a nível nacional para a CQNUAC;
+
+b)
+
+Os acordos e outros instrumentos entre o país em causa e a União e/ou os seus Estados-Membros que abordem a desflorestação e a degradação florestal e facilitem a conformidade dos produtos de base em causa e dos produtos derivados em causa com o artigo 3.o e a sua aplicação efetiva;
+
+c)
+
+Se no país em causa vigoram leis nacionais ou infranacionais, nomeadamente em conformidade com o artigo 5.o do Acordo de Paris, e se tomam medidas coercivas eficazes para combater a desflorestação e a degradação florestal, bem como para evitar e sancionar as atividades conducentes à desflorestação e à degradação florestal, nomeadamente se são aplicadas sanções suficientemente severas para anular os benefícios decorrentes da desflorestação ou da degradação florestal;
+
+d)
+
+Se o país em causa disponibiliza os dados pertinentes de forma transparente; e, se for o caso, a existência, conformidade ou fiscalização eficaz de leis que protejam os direitos humanos, os direitos dos povos indígenas, as comunidades locais e outros titulares de direitos consuetudinários de propriedade fundiária;
+
+e)
+
+As sanções impostas pelo Conselho de Segurança da ONU ou pelo Conselho da União Europeia à importação e exportação de produtos de base e produtos derivados em causa.
+
+5.   A Comissão enceta um diálogo específico com todos os países classificados, ou suscetíveis de serem classificados, como sendo de alto risco, com o objetivo de reduzir o seu nível de risco.
+
+6.   Sem prejuízo do n.o 5, a Comissão notifica formalmente o país em causa da sua intenção de classificar esse país ou uma parte desse país numa categoria de risco diferente e convida-o a prestar quaisquer informações consideradas úteis a esse respeito. A Comissão informa igualmente as autoridades competentes dessa sua intenção.
+
+A Comissão inclui as informações seguintes na notificação:
+
+a)
+
+O motivo ou os motivos da intenção de alterar a classificação do risco do país ou de partes do país;
+
+b)
+
+O convite para responder à Comissão por escrito relativamente à intenção de alterar a classificação de risco do país ou de partes do país;
+
+c)
+
+As consequências da sua classificação como país de alto ou de baixo risco.
+
+7.   A Comissão concede aos países em causa tempo para apresentarem uma resposta à notificação. Caso a notificação diga respeito a uma intenção por parte da Comissão de classificar o país ou parte desse país numa categoria de risco mais elevada, o país em causa poderá fornecer à Comissão informações sobre as medidas tomadas para resolver a situação.
+
+8.   A Comissão notifica, sem demora, o país em causa e as autoridades competentes da inclusão ou supressão de um país, ou de partes desse país, da lista mencionada no n.o 2.
+
+Artigo 30.o
+
+Cooperação com países terceiros
+
+1.   No âmbito das respetivas esferas de competência, a Comissão, em nome da União e dos Estados-Membros interessados, interage, numa abordagem coordenada, com países produtores e com partes de países abrangidos pelo presente regulamento, em particular os que sejam classificados como sendo de alto risco em conformidade com o artigo 29.o, através de parcerias existentes e futuras e outros mecanismos de cooperação pertinentes, a fim de enfrentar conjuntamente as causas profundas da desflorestação e da degradação florestal. A Comissão desenvolve um quadro estratégico global da União para essa interação e pondera mobilizar os instrumentos pertinentes da União. Essas parcerias e mecanismos de cooperação centram-se na conservação, no restauro e na utilização sustentável das florestas, na desflorestação, na degradação florestal e na transição para métodos sustentáveis de produção, consumo, transformação e comercialização dos produtos de base. As parcerias e os mecanismos de cooperação podem incluir diálogos estruturados, acordos administrativos e acordos existentes ou disposições dos mesmos, bem como roteiros conjuntos que permitam a transição para uma produção agrícola que facilite o cumprimento do presente regulamento, prestando especial atenção às necessidades dos povos indígenas, das comunidades locais e dos pequenos agricultores e assegurando a participação de todos os intervenientes interessados.
+
+2.   As parcerias e a cooperação permitem a plena participação de todas as partes interessadas, designadamente a sociedade civil, os povos indígenas, as comunidades locais, as mulheres, o setor privado, nomeadamente as microempresas e outras PME, bem como os pequenos agricultores. As parcerias e a cooperação também apoiam ou dão início a um diálogo inclusivo e participativo com vista a processos de reforma nacionais a nível jurídico e de governação com vista a reforçar a governação florestal, e abordam os fatores internos que contribuem para a desflorestação.
+
+3.   As parcerias e a cooperação promovem o desenvolvimento de processos integrados de ordenamento do território, legislação pertinente dos países produtores, processos multilaterais, incentivos fiscais ou comerciais e outros instrumentos pertinentes para melhorar a conservação das florestas e da biodiversidade, a gestão sustentável e o restauro das florestas, combater a conversão das florestas e dos ecossistemas vulneráveis para outras utilizações do solo, otimizar os ganhos para a paisagem, a segurança da propriedade, a produtividade e a competitividade da agricultura, e a transparência das cadeias de abastecimento, o reforço dos direitos das comunidades dependentes das florestas, como os pequenos agricultores, as comunidades locais e os povos indígenas, cujos direitos são consagrados na Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas, e garantir o acesso público a documentos de gestão florestal e a outras informações pertinentes.
+
+4.   No âmbito das respetivas esferas de competência, a Comissão, em nome da União, dos Estados-Membros ou de ambos, participa em debates internacionais bilaterais e multilaterais sobre políticas e ações destinadas a travar a desflorestação e a degradação florestal, nomeadamente em instâncias multilaterais como a CDB, a FAO, a Convenção das Nações Unidas de Combate à Desertificação, a Assembleia das Nações Unidas para o Ambiente, o Fórum das Nações Unidas sobre as Florestas, a CQNUAC, a OMC, o G7 e o G20. Este envolvimento inclui a promoção da transição para uma produção agrícola e uma gestão florestal sustentáveis, bem como o desenvolvimento de cadeias de abastecimento transparentes e sustentáveis e esforços continuados no sentido de identificar e chegar a acordo quanto a normas e definições sólidas que garantam um elevado nível de proteção das florestas e de outros ecossistemas naturais e dos direitos humanos conexos.
+
+5.   No âmbito das respetivas esferas de competência, a Comissão, em nome da União, e os Estados-Membros interessados, encetam o diálogo e a cooperação com outros países consumidores importantes, a fim de promover a adoção de requisitos ambiciosos para minimizar o contributo desses países para a desflorestação e a degradação florestal, bem como condições de concorrência equitativas a nível mundial.
+
+CAPÍTULO 6
+
+PREOCUPAÇÕES FUNDAMENTADAS
+
+Artigo 31.o
+
+Preocupações fundamentadas de pessoas singulares ou coletivas
+
+1.   As pessoas singulares ou coletivas podem apresentar preocupações fundamentadas às autoridades competentes sempre que considerem que um ou mais operadores ou comerciantes não estão a cumprir o presente regulamento.
+
+2.   As autoridades competentes avaliam de forma diligente e imparcial, sem demora injustificada, as preocupações fundamentadas, nomeadamente se as alegações são bem fundamentadas, e tomam as medidas necessárias, incluindo a realização de verificações e audições dos operadores e comerciantes, com vista a detetar potenciais casos de não cumprimento do presente regulamento e, caso se justifique, medidas provisórias nos termos do artigo 23.o para impedir a colocação ou a disponibilização no mercado ou a exportação dos produtos derivados em causa que sejam objeto de inquérito.
+
+3.   No prazo de 30 dias após a receção de uma preocupação fundamentada, e salvo disposição em contrário na legislação nacional, a autoridade competente informa as pessoas mencionadas no n.o 1 que lhe tenham apresentado preocupações fundamentadas sobre o seguimento dado às mesmas, justificando essa decisão.
+
+4.   Sem prejuízo das obrigações decorrentes da Diretiva (UE) 2019/1937 do Parlamento Europeu e do Conselho (26), os Estados-Membros preveem medidas para proteger a identidade das pessoas singulares ou coletivas que manifestem preocupações fundamentadas ou desenvolvam investigações com o objetivo de verificar o cumprimento do presente regulamento por parte dos operadores ou comerciantes.
+
+Artigo 32.o
+
+Acesso à justiça
+
+1.   Qualquer pessoa singular ou coletiva que tenha um interesse suficiente, determinado em conformidade com os sistemas nacionais de vias de recurso existentes, incluindo, desde que preencham os eventuais critérios previstos no respetivo direito nacional, as pessoas que tenham apresentado uma preocupação fundamentada nos termos do artigo 31.o, têm acesso a procedimentos administrativos ou judiciais para fiscalizar a legalidade das decisões, atos ou omissões das autoridades competentes ao abrigo do presente regulamento.
+
+2.   O presente regulamento não prejudica as disposições de direito nacional que regulam o acesso à justiça nem as que impõem o esgotamento prévio das vias administrativas antes do recurso a tribunal.
+
+CAPÍTULO 7
+
+SISTEMAS DE INFORMAÇÃO
+
+Artigo 33.o
+
+Sistema de informação
+
+1.   Até 30 de dezembro de 2024, a Comissão cria e subsequentemente mantém um sistema de informação que contém as declarações de diligência devida disponibilizadas nos termos do artigo 4.o, n.o 2.
+
+2.   Sem prejuízo do cumprimento das obrigações estabelecidas nos capítulos 2 e 3, o sistema de informação disponibiliza pelo menos as seguintes funcionalidades:
+
+a)
+
+Registo de operadores e comerciantes e dos seus mandatários na União; os operadores que coloquem produtos derivados em causa ao abrigo do regime aduaneiro «introdução em livre prática» ou «exportação» incluem no seu perfil de registo o número de Registo e Identificação dos Operadores Económicos (EORI) definido nos termos do artigo 9.o do Regulamento (UE) n.o 952/2013;
+
+b)
+
+Registo de declarações de diligência devida, incluindo a comunicação, ao operador ou comerciante em causa, de um número de referência para cada declaração de diligência devida apresentada através do sistema de informação;
+
+c)
+
+Disponibilização do número de referência das declarações de diligência devida existentes, nos termos do artigo 4.o, n.os 8 e 9;
+
+d)
+
+Sempre que possível, a conversão de dados de sistemas pertinentes para determinar a geolocalização;
+
+e)
+
+Registo dos resultados das verificações das declarações de diligência devida;
+
+f)
+
+Interligação com as alfândegas através do Ambiente de Janela Única Aduaneira da União Europeia, em conformidade com o artigo 28.o, nomeadamente para permitir as notificações e os pedidos referidos no artigo 26.o, n.os 6 a 9;
+
+g)
+
+Prestação de informações pertinentes para apoiar o definição de perfis de risco para o plano de verificações a que se refere o artigo 16.o, n.o 5, nomeadamente os resultados das verificações, a definição do perfil de risco dos operadores, comerciantes e produtos de base em causa e produtos derivados em causa para efeitos de identificação, com base em técnicas de processamento eletrónico de dados, dos operadores e comerciantes a controlar a que se refere o artigo 16.o, n.o 5, e dos produtos derivados em causa a serem inspecionados pelas autoridades competentes;
+
+h)
+
+Facilitação da assistência administrativa e da cooperação entre as autoridades competentes, e entre as autoridades competentes e a Comissão, para o intercâmbio de informações e dados;
+
+i)
+
+Apoio à comunicação entre as autoridades competentes e os operadores e comerciantes para efeitos da aplicação do presente regulamento, incluindo, se for caso disso, através da utilização de ferramentas digitais de gestão do aprovisionamento.
+
+3.   A Comissão estabelece, por meio de atos de execução, regras para o funcionamento do sistema de informação ao abrigo do presente artigo, incluindo regras relativas à proteção dos dados pessoais e ao intercâmbio de dados com outros sistemas informáticos. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 36.o, n.o 2.
+
+4.   A Comissão concede acesso a esse sistema de informação às autoridades aduaneiras, às autoridades competentes, aos operadores e aos comerciantes e, se for o caso, aos seus mandatários, em conformidade com as respetivas obrigações decorrentes do presente regulamento.
+
+5.   Em conformidade com a política da União de livre acesso aos dados, a Comissão concede acesso ao público em geral aos conjuntos de dados completos e anonimizados do sistema num formato aberto, de leitura automática e que garanta a interoperabilidade, a reutilização e a acessibilidade.
+
+CAPÍTULO 8
+
+REVISÃO
+
+Artigo 34.o
+
+Revisão
+
+1.   O mais tardar até 30 de junho de 2024, a Comissão apresenta uma avaliação de impacto acompanhada, se for caso disso, de uma proposta legislativa com vista a alargar o âmbito de aplicação do presente regulamento a fim de incluir outros terrenos arborizados. A avaliação inclui, nomeadamente, a data de referência limite referida no artigo 2.o, com vista a minimizar a contribuição da União para a conversão e a degradação dos ecossistemas naturais. A revisão inclui uma avaliação do impacto dos produtos de base em causa na desflorestação e na degradação florestal.
+
+2.   O mais tardar até 30 de junho de 2025, a Comissão apresenta uma avaliação de impacto acompanhada, se for caso disso, de uma proposta legislativa com vista a alargar o âmbito de aplicação do presente regulamento a outros ecossistemas naturais, nomeadamente a outras terras com elevadas reservas de carbono e com um elevado valor em termos de biodiversidade, como prados, turfeiras e zonas húmidas. A avaliação abrange um potencial alargamento a ecossistemas, nomeadamente, com base na data de referência limite referida no artigo 2.o, com vista a minimizar a contribuição da União para a conversão e a degradação dos ecossistemas naturais. A revisão também dá resposta à necessidade e viabilidade de alargamento do âmbito de aplicação do presente regulamento a outros produtos de base, nomeadamente ao milho. A revisão inclui uma avaliação do impacto dos produtos de base em causa na desflorestação e na degradação florestal, conforme indicado por dados científicos, e tem em conta as alterações a nível do consumo.
+
+3.   A avaliação do impacto a que se refere o n.o 2 incide também uma avaliação sobre a eventual alteração ou alargamento da lista de produtos derivados em causa constante do anexo I, a fim de assegurar que a maioria dos produtos derivados em causa que contêm, foram alimentados ou fabricados com os produtos de base em causa está incluída nessa lista. Essa avaliação presta especial atenção à eventual inclusão de biocombustíveis (código SH 382600) no anexo I.
+
+4.   A avaliação do impacto a que se refere o n.o 2 avalia igualmente o papel das instituições financeiras na prevenção de fluxos financeiros que contribuam direta ou indiretamente para a desflorestação e a degradação florestal e aprecia a necessidade de prever em atos jurídicos da União quaisquer obrigações específicas para as instituições financeiras a este respeito, tendo em conta toda a legislação horizontal e setorial pertinente em vigor.
+
+5.   A Comissão pode adotar atos delegados nos termos do artigo 35.o para alterar o anexo I no que diz respeito aos códigos NC pertinentes dos produtos derivados em causa que contenham, tenham sido alimentados, ou tenham sido fabricados utilizando produtos de base em causa.
+
+6.   Até 30 de junho de 2028 e, pelo menos, de cinco em cinco anos após essa data, a Comissão efetua uma revisão geral do presente regulamento e apresenta um relatório ao Parlamento Europeu e ao Conselho acompanhado, se for caso disso, de uma proposta legislativa. O primeiro relatório deve incluir, em especial, com base em estudos específicos, uma avaliação:
+
+a)
+
+Da necessidade e viabilidade de instrumentos adicionais de facilitação do comércio — e, nomeadamente, no que se refere aos PMD altamente afetados pelo presente regulamento e aos países, ou partes dos mesmos, classificados como sendo de risco padrão ou alto, para apoiar a realização dos objetivos do presente regulamento;
+
+b)
+
+Do impacto do presente regulamento nos agricultores, em especial nos pequenos agricultores, nos povos indígenas e nas comunidades locais, e da possível necessidade de apoio adicional à transição para cadeias de abastecimento sustentáveis e para que os pequenos agricultores cumpram os requisitos do presente regulamento;
+
+c)
+
+Do alargamento da definição de degradação florestal, com base numa análise aprofundada e tendo em conta os progressos realizados nos debates internacionais sobre a matéria;
+
+d)
+
+Do limiar para a utilização obrigatória de polígonos a que se refere o artigo 2.o, ponto 28, tendo em conta o seu impacto no combate à desflorestação e à degradação florestal;
+
+e)
+
+De alterações dos fluxos comerciais dos produtos de base em causa e dos produtos derivados em causa abrangidos pelo âmbito de aplicação do presente regulamento, quando essas alterações possam indicar a prática de evasão;
+
+f)
+
+Para determinar se as verificações realizadas foram eficazes para assegurar que os produtos de base em causa e os produtos derivados em causa disponibilizados no mercado ou exportados cumprem com o disposto no artigo 3.o.
+
+CAPÍTULO 9
+
+DISPOSIÇÕES FINAIS
+
+Artigo 35.o
+
+Exercício da delegação
+
+1.   O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.
+
+2.   O poder de adotar atos delegados referido no artigo 34.o, n.o 5, é conferido à Comissão por um prazo de cinco anos a contar de 29 de junho de 2023. A Comissão elabora um relatório relativo à delegação de poderes o mais tardar seis meses antes do final prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.
+
+3.   A delegação de poderes referida no artigo 34.o, n.o 5, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no Jornal Oficial da União Europeia ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.
+
+4.   Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor.
+
+5.   Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.
+
+6.   Os atos delegados adotados nos termos do artigo 34.o, n.o 5, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho.
+
+Artigo 36.o
+
+Procedimento de comité
+
+1.   A Comissão é assistida por um comité. Este comité é um comité na aceção do Regulamento (UE) n.o 182/2011 (27) do Parlamento Europeu e do Conselho.
+
+2.   Caso se remeta para o presente número, aplica-se o artigo 5.o do Regulamento (UE) n.o 182/2011, tendo em conta o disposto no seu artigo 11.o.
+
+Artigo 37.o
+
+Revogação
+
+1.   O Regulamento (UE) n.o 995/2010 é revogado, com efeitos a partir de 30 de dezembro de 2024.
+
+2.   No entanto, o Regulamento (UE) n.o 995/2010 continua a aplicar-se até 31 de dezembro de 2027 à madeira e aos produtos da madeira na aceção do artigo 2.o, alínea a), do Regulamento (UE) n.o 995/2010, produzidos antes de 29 de junho de 2023, e colocados no mercado a partir de 30 de dezembro de 2024.
+
+3.   Em derrogação do artigo 1.o, n.o 2, do presente regulamento, a madeira e os produtos de madeira na aceção do artigo 2.o, alínea a), do Regulamento (UE) n.o 995/2010, produzidos antes de 29 de junho de 2023, e colocados no mercado a partir de 31 de dezembro de 2027, devem cumprir o disposto no artigo 3.o do presente regulamento.
+
+Artigo 38.o
+
+Entrada em vigor e data de aplicação
+
+1.   O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+2.   Sob reserva do disposto no n.o 3 do presente artigo, os artigos 3.o a 13.o, os artigos 16.o a 24.o e os artigos 26.o, 31.o e 32.o são aplicáveis a partir de 30 de dezembro de 2024.
+
+3.   Com exceção dos produtos abrangidos pelo anexo do Regulamento (UE) n.o 995/2010, em relação aos operadores que se estabeleceram até 31 de dezembro de 2020 como microempresas ou pequenas empresas nos termos do artigo 3.o, n.os 1 ou 2 da Diretiva 2013/34/UE, respetivamente, os artigos referidos no n.o 2 do presente artigo são aplicáveis a partir de 30 de junho de 2025.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros
+
+Feito em Bruxelas, em 31 de maio de 2023.
+
+Pelo Parlamento Europeu
+
+A Presidente
+
+R. METSOLA
+
+Pelo Conselho
+
+O Presidente
+
+P. KULLGREN
+
+(1)   JO C 275 de 18.7.2022, p. 88.
+
+(2)  Posição do Parlamento Europeu de 19 de abril de 2023 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 16 de maio de 2023.
+
+(3)   JO L 282 de 19.10.2016, p. 4.
+
+(4)  Decisão (UE) 2022/591 do Parlamento Europeu e do Conselho, de 6 de abril de 2022, relativa a um Programa Geral de Ação da União para 2030 em Matéria de Ambiente (JO L 114 de 12.4.2022, p. 22).
+
+(5)  Regulamento (UE) 2021/1119 do Parlamento Europeu e do Conselho, de 30 de junho de 2021, que cria o regime para alcançar a neutralidade climática e que altera os Regulamentos (CE) n.o 401/2009 e (UE) 2018/1999 («Lei europeia em matéria de clima») (JO L 243 de 9.7.2021, p. 1).
+
+(6)  Decisão 93/626/CEE do Conselho, de 25 de outubro de 1993, relativa à celebração da Convenção sobre a diversidade biológica (JO L 309 de 13.12.1993, p. 1).
+
+(7)  Regulamento (UE) n.o 995/2010 do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, que fixa as obrigações dos operadores que colocam no mercado madeira e produtos da madeira (JO L 295 de 12.11.2010, p. 23).
+
+(8)  Regulamento (CE) n.o 2173/2005 do Conselho, de 20 de dezembro de 2005, relativo ao estabelecimento de um regime de licenciamento para a importação de madeira para a Comunidade Europeia (FLEGT) (JO L 347 de 30.12.2005, p. 1).
+
+(9)  Pendrill F., Persson U. M., Kastner, T. 2020. Deforestation risk embodied in production and consumption of agricultural and forestry commodities 2005-2017 (Version 1.0). Zenodo.
+
+(10)  Diretiva 2008/98/CE do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa aos resíduos e que revoga certas diretivas (JO L 312 de 22.11.2008, p. 3).
+
+(11)  Diretiva (UE) 2019/1024 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativa aos dados abertos e à reutilização de informações do setor público (JO L 172 de 26.6.2019, p. 56).
+
+(12)  Regulamento (UE) 2019/1020 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativo à fiscalização do mercado e à conformidade dos produtos e que altera a Diretiva 2004/42/CE e os Regulamentos (CE) n.o 765/2008 e (UE) n.o 305/2011 (JO L 169 de 25.6.2019, p. 1).
+
+(13)  Regulamento (UE) n.o 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União (JO L 269 de 10.10.2013, p. 1).
+
+(14)  Regulamento (UE) 2021/240 do Parlamento Europeu e do Conselho, de 10 de fevereiro de 2021, que cria um instrumento de assistência técnica (JO L 57 de 18.2.2021, p. 1).
+
+(15)   JO L 123 de 12.5.2016, p. 1.
+
+(16)  Regulamento de Execução (UE) n.o 607/2012 da Comissão, de 6 de julho de 2012, que estabelece as regras de execução relativas ao sistema de diligência devida e à frequência e à natureza das inspeções das organizações de vigilância previstas no Regulamento (UE) n.o 995/2010 do Parlamento Europeu e do Conselho que fixa as obrigações dos operadores que colocam no mercado madeira e produtos da madeira (JO L 177 de 7.7.2012, p. 16).
+
+(17)  Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (Regulamento Geral sobre a Proteção de Dados) (JO L 119 de 4.5.2016, p. 1).
+
+(18)  Regulamento (UE) 2018/1725 do Parlamento Europeu e do Conselho, de 23 de outubro de 2018, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos e organismos da União e à livre circulação desses dados, e que revoga o Regulamento (CE) n.o 45/2001 e a Decisão n.o 1247/2002/CE (JO L 295 de 21.11.2018, p. 39).
+
+(19)  Diretiva 2013/34/UE do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativa às demonstrações financeiras anuais, às demonstrações financeiras consolidadas e aos relatórios conexos de certas formas de empresas, que altera a Diretiva 2006/43/CE do Parlamento Europeu e do Conselho e revoga as Diretivas 78/660/CEE e 83/349/CEE do Conselho (JO L 182 de 29.6.2013, p. 19).
+
+(20)  Regulamento (CEE) n.o 2658/87 do Conselho, de 23 de julho de 1987, relativo à nomenclatura pautal e estatística e à pauta aduaneira comum (JO L 256 de 7.9.1987, p. 1).
+
+(21)  Diretiva (UE) 2018/2001 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, relativa à promoção da utilização de energia de fontes renováveis (JO L 328 de 21.12.2018, p. 82).
+
+(22)  Diretiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de janeiro de 2003, relativa ao acesso do público às informações sobre ambiente e que revoga a Diretiva 90/313/CEE do Conselho (JO L 41 de 14.2.2003, p. 26).
+
+(23)  Diretiva 2008/99/CE do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa à proteção do ambiente através do direito penal (JO L 328 de 6.12.2008, p. 28).
+
+(24)  Regulamento (CE) n.o 139/2004 do Conselho, de 20 de janeiro de 2004, relativo ao controlo das concentrações de empresas («Regulamento das concentrações comunitárias») (JO L 24 de 29.1.2004, p. 1).
+
+(25)  Regulamento (UE) 2022/2399 do Parlamento Europeu e do Conselho, de 23 de novembro de 2022, que estabelece o Ambiente de Janela Única Aduaneira da União Europeia e altera o Regulamento (UE) n.o 952/2013 (JO L 317 de 9.12.2022, p. 1).
+
+(26)  Diretiva (UE) 2019/1937 do Parlamento Europeu e do Conselho, de 23 de outubro de 2019, relativa à proteção das pessoas que denunciam violações do direito da União (JO L 305 de 26.11.2019, p. 17).
+
+(27)  Regulamento (UE) n.o 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).
+
+ANEXO I
+
+Produtos de base em causa e produtos derivados em causa a que se refere o artigo 1.o
+
+O quadro seguinte enumera mercadorias classificadas tal como na Nomenclatura Combinada definida no anexo I do Regulamento (CEE) n.o 2658/87 que são mencionadas no artigo 1.o do presente regulamento.
+
+Exceto para os subprodutos de um processo de fabrico se esse processo envolver materiais que não fossem resíduos na aceção do artigo 3.o, ponto 1, da Diretiva 2008/98/CE, o presente regulamento não se aplica a mercadorias que sejam produzidas totalmente a partir de materiais que tenham completado o seu ciclo de vida e que, caso contrário, teriam sido eliminados como resíduos, na aceção do artigo 3.o, ponto 1, dessa diretiva.
+
+Produto de base em causa
+
+Produtos derivados em causa
+
+Bovinos
+
+0102 21 , 0102 29 Bovinos vivos
+
+ex 0201 Carnes de bovino, frescas ou refrigeradas
+
+ex 0202 Carnes de bovino, congeladas
+
+ex 0206 10 Miudezas comestíveis de bovinos, frescas ou refrigeradas
+
+ex 0206 22 Fígados comestíveis de bovinos, congelados
+
+ex 0206 29 Miudezas comestíveis de bovinos (excluindo línguas e fígados), congeladas
+
+ex 1602 50 Outras preparações e conservas de carne, miudezas, sangue, de bovinos
+
+ex 4101 Couros e peles em bruto de bovinos (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos
+
+ex 4104 Couros e peles curtidos ou crust, de bovinos, depilados, mesmo divididos, mas não preparados de outro modo
+
+ex 4107 Couros preparados após curtimenta ou após secagem (crusting) e couros e peles apergaminhados, de bovinos, depilados, mesmo divididos, exceto os da posição 4114
+
+Cacau
+
+1801 Cacau inteiro ou partido, em bruto ou torrado
+
+1802 Cascas, películas e outros desperdícios de cacau
+
+1803 Pasta de cacau, mesmo desengordurada
+
+1804 Manteiga, gordura e óleo, de cacau
+
+1805 Cacau em pó, sem adição de açúcar ou de outros edulcorantes
+
+1806 Chocolate e outras preparações alimentícias que contenham cacau
+
+Café
+
+0901 Café, mesmo torrado ou descafeinado; cascas e películas de café; sucedâneos do café que contenham café em qualquer proporção
+
+Palmeira-dendém
+
+1207 10 Nozes e amêndoas de palma (palmiste) (coconote)
+
+1511 Óleo de palma e respetivas frações, mesmo refinados, mas não quimicamente modificados
+
+1513 21 Óleos, em bruto, de amêndoa de palma (palmiste) ou de babaçu, e respetivas frações, mesmo refinados, mas não quimicamente modificados
+
+1513 29 Óleos de amêndoa de palma (palmiste) ou de babaçu, e respetivas frações, mesmo refinados, mas não quimicamente modificados (excluindo óleos em bruto)
+
+2306 60 Bagaços (Tortas) e outros resíduos sólidos de nozes ou de amêndoas de palma (palmiste), mesmo triturados ou em pellets, da extração de gorduras ou óleos de nozes ou amêndoas de palma (palmiste)
+
+ex 2905 45 Glicerol, com uma pureza de 95 % ou superior (calculada a partir do peso do produto seco)
+
+2915 70 Ácido palmítico, ácido esteárico, seus sais e seus ésteres
+
+2915 90 Ácidos monocarboxílicos acíclicos saturados e seus anidridos, halogenetos, peróxidos e peroxiácidos; seus derivados halogenados, sulfonados, nitrados ou nitrosados (exceto ácido fórmico, ácido acético, ácidos mono, di– ou tricloroacéticos, ácido propiónico, ácidos butanoico e pentanoico, ácidos palmítico e esteárico, seus sais e seus ésteres, bem como anidrido acético)
+
+3823 11 Ácido esteárico, industrial
+
+3823 12 Ácido oleico, industrial
+
+3823 19 Ácidos gordos (graxos) monocarboxílicos industriais; óleos ácidos de refinação [exceto ácido esteárico, ácido oleico e ácidos gordos (graxos) do tall oil]
+
+3823 70 Álcoois gordos industriais
+
+Borracha
+
+4001 Borracha natural, balata, guta-percha, guaiúle, chicle e gomas naturais análogas; em formas primárias ou em chapas, folhas ou tiras
+
+ex 4005 Borracha misturada, não vulcanizada, em formas primárias ou em chapas, folhas ou tiras
+
+ex 4006 Borracha não vulcanizada em outras formas (por exemplo, varetas, tubos e perfis) e artigos (por exemplo, discos, anilhas (arruelas)
+
+ex 4007 Fios e cordas, de borracha vulcanizada
+
+ex 4008 Chapas, folhas, tiras, varetas e perfis, de borracha vulcanizada não endurecida
+
+ex 4010 Correias transportadoras ou de transmissão, de borracha vulcanizada
+
+ex 4011 Pneumáticos novos, de borracha
+
+ex 4012 Pneumáticos recauchutados ou usados, de borracha; pneus maciços ou ocos, bandas de rodagem para pneumáticos e flaps, de borracha
+
+ex 4013 Câmaras de ar de borracha
+
+ex 4015 Vestuário e seus acessórios (incluindo as luvas, mitenes e semelhantes), de borracha vulcanizada não endurecida, para quaisquer usos
+
+ex 4016 Outras obras de borracha vulcanizada não endurecida, não especificadas no capítulo 40
+
+ex 4017 Borracha endurecida (ebonite, por exemplo) sob qualquer forma, incluindo os desperdícios e resíduos; obras de borracha endurecida
+
+Soja
+
+1201 Soja, mesmo triturada
+
+1208 10 Farinha de soja
+
+1507 Óleo de soja e respetivas frações, mesmo refinados, mas não quimicamente modificados
+
+2304 Bagaços (Tortas) e outros resíduos sólidos, mesmo triturados ou em pellets, da extração do óleo de soja
+
+Madeira
+
+4401 Lenha em qualquer forma; madeira em estilhas ou em partículas; serradura (serragem), desperdícios e resíduos, de madeira, mesmo aglomerados em toros (toras), briquetes, pellets ou em formas semelhantes
+
+4402 Carvão vegetal (incluindo o carvão de cascas ou de caroços), mesmo aglomerado
+
+4403 Madeira em bruto, mesmo descascada, desalburnada ou esquadriada
+
+4404 Arcos de madeira; estacas fendidas; estacas aguçadas, não serradas longitudinalmente; madeira simplesmente desbastada ou arredondada, não torneada, não recurvada nem trabalhada de qualquer outro modo, para fabricação de bengalas, guarda-chuvas, cabos de ferramentas e semelhantes; madeira em fasquias, lâminas, fitas e semelhantes
+
+4405 Lã de madeira; farinha de madeira
+
+4406 Dormentes de madeira para vias-férreas ou semelhantes
+
+4407 Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm
+
+4408 Folhas para folheados (incluindo as obtidas por corte de madeira estratificada), folhas para contraplacados (compensados) ou para madeiras estratificadas semelhantes e outras madeiras, serradas longitudinalmente, cortadas transversalmente ou desenroladas, mesmo aplainadas, lixadas, unidas pelas bordas ou pelas extremidades, de espessura não superior a 6 mm
+
+4409 Madeira (incluindo os tacos e frisos para parqués, não montados) perfilada (com espigas, ranhuras, filetes, entalhes, chanfrada, com juntas em V, com cercadura, boleada ou semelhantes) ao longo de uma ou mais bordas, faces ou extremidades, mesmo aplainada, lixada ou unida pelas extremidades
+
+4410 Painéis de partículas, painéis denominados «oriented strand board» (OSB) e painéis semelhantes («waferboard», por exemplo), de madeira ou de outras matérias lenhosas, mesmo aglomeradas com resinas ou com outros aglutinantes orgânicos
+
+4411 Painéis de fibras de madeira ou de outras matérias lenhosas, mesmo aglomeradas com resinas ou com outros aglutinantes orgânicos
+
+4412 Madeira contraplacada (compensada), madeira folheada, e madeiras estratificadas semelhantes
+
+4413 Madeira densificada, em blocos, pranchas, lâminas ou perfis
+
+4414 Molduras de madeira para quadros, fotografias, espelhos ou objetos semelhantes
+
+4415 Caixotes, caixas, engradados, barricas e embalagens semelhantes, de madeira; carretéis para cabos, de madeira; paletes simples, paletes-caixas e outros estrados para carga, de madeira;
+
+taipais de paletes de madeira
+
+(não inclui material de embalagem utilizado exclusivamente como material de embalagem para sustentar, proteger ou transportar outro produto colocado no mercado)
+
+4416 Barris, cubas, balsas, dornas, selhas e outras obras de tanoeiro e respetivas partes de madeira, incluindo as aduelas
+
+4417 Ferramentas, armações e cabos, de ferramentas, de escovas e de vassouras, de madeira; formas, alargadeiras e esticadores, para calçado, de madeira
+
+4418 Obras de marcenaria e peças de carpintaria para construções, incluindo os painéis celulares, os painéis montados para revestimento de pavimentos (pisos) e as fasquias para telhados (shingles e shakes), de madeira
+
+4419 Artigos de madeira para mesa ou cozinha
+
+4420 Madeira marchetada e madeira incrustada; estojos e guarda-joias, para joalharia e ourivesaria, e obras semelhantes, de madeira; estatuetas e outros objetos de ornamentação, de madeira; artigos de mobiliário, de madeira, que não se incluam no Capítulo 94
+
+4421 Outras obras em madeira
+
+Pasta e papel dos Capítulos 47 e 48 da Nomenclatura Combinada, com exceção dos produtos de bambu e do papel ou cartão reciclados (desperdícios e resíduos)
+
+ex 49 Livros, jornais, gravuras e outros produtos das indústrias gráficas, textos manuscritos ou datilografados, planos e plantas, de papel
+
+ex 9401 Assentos (exceto os da posição 9402 ), mesmo transformáveis em camas, e suas partes, de madeira
+
+9403 30 , 9403 40 , 9403 50 , 9403 60 e 9403 91 Móveis de madeira e partes dos mesmos
+
+9406 10 Construções pré-fabricadas de madeira
+
+ANEXO II
+
+Declaração de diligência devida
+
+Informações a incluir na declaração de diligência devida em conformidade com o artigo 4.o, n.o 2:
+
+1.
+
+Nome e endereço do operador e, no caso de produtos de base em causa e produtos derivados em causa que entrem ou saiam do mercado, o número de Registo e Identificação dos Operadores Económicos (EORI), em conformidade com o artigo 9.o do Regulamento (UE) n.o 952/2013.
+
+2.
+
+Código do Sistema Harmonizado, descrição em texto livre, incluindo a denominação comercial e, se for o caso, o nome científico completo e a quantidade do produto derivado em causa que o operador pretende colocar no mercado ou exportar. Para produtos derivados em causa que entrem ou saiam do mercado, a quantidade é expressa em quilogramas de massa líquida e, se aplicável, na unidade suplementar indicada no anexo I do Regulamento (CEE) n.o 2658/87 do Conselho tendo por base o código do Sistema Harmonizado indicado ou, em todos os outros casos, expressa em massa líquida especificando uma estimativa ou um desvio em percentagem ou, quando aplicável, em volume, ou em número de unidades. Deve ser indicada uma unidade suplementar caso seja definida de forma coerente para todas as subposições possíveis do código do Sistema Harmonizado mencionado na declaração de diligência devida.
+
+3.
+
+País de produção e a geolocalização de todas as parcelas de terreno onde os produtos de base em causa foram fabricados. Para os produtos derivados em causa que contenham ou que tenham sido fabricados com bovinos, e para os produtos derivados em causa que tenham sido alimentados com os produtos derivados em causa, a geolocalização refere-se a todos os estabelecimentos onde os bovinos foram mantidos. Se o produto derivado em causa contiver ou tiver sido fabricado com produtos de base produzidos em diferentes parcelas de terreno, deve incluir-se a geolocalização de todas as parcelas de terreno, nos termos do artigo 9.o, n.o 1, alínea d).
+
+4.
+
+Para os operadores que façam referência a uma declaração de diligência existente nos termos do artigo 4.o, n.os 8 e 9, o número de referência dessa declaração de diligência.
+
+5.
+
+O texto: «Ao apresentar a presente declaração de diligência devida, o operador confirma que foi exercida a diligência devida nos termos do Regulamento (UE) 2023/1115 e que não foi detetado qualquer risco ou apenas foi detetado um risco negligenciável de que os produtos derivados em causa não cumprem o disposto no artigo 3.o, alínea a) ou b), desse regulamento.».
