@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "7b833d71-0e7f-4f5b-afdb-f54672e1de4a",
+  "status": "current",
+  "command": "deliver",
+  "type": "workflow",
+  "input": "C:\\projects\\eudr\\.archify\\workflow-eudr-due-diligence-pt-20261124-112132\\candidate.json",
+  "output": "C:\\projects\\eudr\\.archify\\workflow-eudr-due-diligence-pt-20261124-112132\\diligencia-devida-eudr.html",
+  "specification": {
+    "sha256": "0d21f1eb9ab0d9dda0fc5e078821ff4ec83ac923ac7f04aa068424b9d9999a0f",
+    "bytes": 39903
+  },
+  "artifact": {
+    "sha256": "d49c6fcdc0f26c9371b068f4f8a44b05e7c62d23f6ddb194760b0979cdb7ad16",
+    "bytes": 855678
+  }
+}
