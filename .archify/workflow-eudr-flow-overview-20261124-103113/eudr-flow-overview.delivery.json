@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "43c1d4c2-9503-4313-b581-6281eccaed3e",
+  "status": "current",
+  "command": "deliver",
+  "type": "workflow",
+  "input": "C:\\projects\\eudr\\.archify\\workflow-eudr-flow-overview-20261124-103113\\candidate.json",
+  "output": "C:\\projects\\eudr\\.archify\\workflow-eudr-flow-overview-20261124-103113\\eudr-flow-overview.html",
+  "specification": {
+    "sha256": "0952562d9bbbabc24b32053afb507530a126b25b7cac819508e3856e86ced466",
+    "bytes": 6627
+  },
+  "artifact": {
+    "sha256": "6b62fc32cad1c615c9519c8218807a36fad4a030a2ed4913f6143981a0cf61c4",
+    "bytes": 852629
+  }
+}

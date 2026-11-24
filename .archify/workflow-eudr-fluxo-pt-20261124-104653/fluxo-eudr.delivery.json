@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "3d97555b-dc06-464a-8a63-26706d55a04b",
+  "status": "current",
+  "command": "deliver",
+  "type": "workflow",
+  "input": "C:\\projects\\eudr\\.archify\\workflow-eudr-fluxo-pt-20261124-104653\\candidate.json",
+  "output": "C:\\projects\\eudr\\.archify\\workflow-eudr-fluxo-pt-20261124-104653\\fluxo-eudr.html",
+  "specification": {
+    "sha256": "c97253cd3f623c9bee2c7e18037289990c04434ad8f035e7ef69ad39d47aaedf",
+    "bytes": 39164
+  },
+  "artifact": {
+    "sha256": "a0f92be81d1c3bea9c66c5ebe8f13a2bd882fa1e7b642c32b3ae0f6ecf51efb0",
+    "bytes": 856068
+  }
+}

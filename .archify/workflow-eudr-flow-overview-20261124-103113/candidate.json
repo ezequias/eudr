@@ -1,0 +1,175 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "EUDR: From product to market",
+    "locale": "en",
+    "output": ".archify/workflow-eudr-flow-overview-20261124-103113/eudr-flow-overview.html",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    { "id": "business", "label": "EU operator / exporter" },
+    { "id": "origin", "label": "Supplier / production origin" },
+    { "id": "downstream", "label": "Downstream business / customs" },
+    { "id": "oversight", "label": "Competent authorities" },
+    { "id": "exception", "label": "Stop / exception", "variant": "exception" }
+  ],
+  "phases": [
+    { "id": "scope", "label": "1. Check scope", "fromCol": 0, "toCol": 1 },
+    { "id": "evidence", "label": "2. Trace and assess", "fromCol": 2, "toCol": 3 },
+    { "id": "decision", "label": "3. Reach a risk decision", "fromCol": 4, "toCol": 4, "variant": "emphasis" },
+    { "id": "market", "label": "4. Declare, trade and check", "fromCol": 5, "toCol": 5 }
+  ],
+  "mainPath": ["product", "scope_check", "origin_data", "due_diligence", "risk_decision", "statement", "trade", "inspection"],
+  "nodes": [
+    {
+      "id": "product",
+      "lane": "business",
+      "col": 0,
+      "type": "external",
+      "label": "Product for EU sale / export",
+      "sublabel": "first placing or export"
+    },
+    {
+      "id": "scope_check",
+      "lane": "business",
+      "col": 1,
+      "type": "backend",
+      "icon": "decision",
+      "label": "Listed product?",
+      "sublabel": "commodity + Annex I item"
+    },
+    {
+      "id": "outside_scope",
+      "lane": "exception",
+      "col": 2,
+      "type": "external",
+      "label": "Outside EUDR scope",
+      "sublabel": "if not listed in Annex I"
+    },
+    {
+      "id": "origin_data",
+      "lane": "origin",
+      "col": 2,
+      "type": "database",
+      "label": "Trace every source",
+      "sublabel": "plots or cattle holdings"
+    },
+    {
+      "id": "due_diligence",
+      "lane": "business",
+      "col": 3,
+      "type": "backend",
+      "label": "Collect proof + assess",
+      "sublabel": "origin, dates, legality"
+    },
+    {
+      "id": "risk_decision",
+      "lane": "business",
+      "col": 4,
+      "type": "security",
+      "icon": "decision",
+      "label": "Risk negligible?",
+      "sublabel": "no risk or negligible risk"
+    },
+    {
+      "id": "mitigate",
+      "lane": "origin",
+      "col": 4,
+      "type": "backend",
+      "label": "Get more evidence",
+      "sublabel": "supplier details / audit"
+    },
+    {
+      "id": "statement",
+      "lane": "business",
+      "col": 5,
+      "type": "security",
+      "label": "Submit due-diligence statement",
+      "sublabel": "before market / export"
+    },
+    {
+      "id": "trade",
+      "lane": "downstream",
+      "col": 5,
+      "type": "external",
+      "label": "Place / export product",
+      "sublabel": "share reference downstream"
+    },
+    {
+      "id": "inspection",
+      "lane": "oversight",
+      "col": 5,
+      "type": "security",
+      "label": "Risk-based checks",
+      "sublabel": "records, goods, customs status"
+    },
+    {
+      "id": "stop",
+      "lane": "exception",
+      "col": 5,
+      "type": "security",
+      "label": "Do not place / export",
+      "sublabel": "or correct / withdraw if found later"
+    }
+  ],
+  "edges": [
+    { "from": "product", "to": "scope_check", "role": "main" },
+    { "from": "scope_check", "to": "origin_data", "label": "Yes", "variant": "emphasis", "role": "main" },
+    { "from": "scope_check", "to": "outside_scope", "label": "No", "role": "branch" },
+    { "from": "origin_data", "to": "due_diligence", "label": "source details + location", "role": "main" },
+    { "from": "due_diligence", "to": "risk_decision", "label": "test the evidence", "role": "main" },
+    { "from": "risk_decision", "to": "statement", "label": "None / negligible", "variant": "emphasis", "role": "main" },
+    { "from": "risk_decision", "to": "mitigate", "label": "Unclear / higher risk", "variant": "security", "role": "branch" },
+    { "from": "mitigate", "to": "risk_decision", "label": "reassess", "variant": "dashed", "role": "return" },
+    { "from": "risk_decision", "to": "stop", "label": "Still above negligible", "variant": "security", "role": "error" },
+    { "from": "statement", "to": "trade", "label": "reference", "variant": "emphasis", "role": "main" },
+    { "from": "trade", "to": "inspection", "label": "may be checked", "role": "main" },
+    { "from": "inspection", "to": "stop", "label": "Non-compliance found", "variant": "security", "role": "error" }
+  ],
+  "cards": [
+    {
+      "dot": "emerald",
+      "title": "The three legal tests",
+      "items": [
+        "The covered product must not be linked to deforestation after 31 Dec 2020.",
+        "It must be produced in line with relevant laws in its country of production.",
+        "For wood, the rule also covers forest degradation after that date."
+      ]
+    },
+    {
+      "dot": "cyan",
+      "title": "What evidence means",
+      "items": [
+        "Identify the production country, production period, suppliers and product.",
+        "Provide geolocation for every production plot; for cattle, identify the holdings.",
+        "Keep verifiable evidence supporting both deforestation-free status and legality."
+      ]
+    },
+    {
+      "dot": "violet",
+      "title": "Who is responsible?",
+      "items": [
+        "The operator remains responsible, including when relying on an existing statement.",
+        "Non-SME traders generally have operator-like due-diligence duties.",
+        "SME traders must keep supplier, buyer and statement-reference records."
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Checks and consequences",
+      "items": [
+        "Authorities select checks using risk; customs also checks relevant import / export references.",
+        "If goods are non-compliant, they can be stopped or withdrawn; authorities can require corrective action and apply penalties."
+      ]
+    },
+    {
+      "dot": "slate",
+      "title": "Scope and reading note",
+      "items": [
+        "The rule covers seven commodities and only the derived goods specifically listed in Annex I—not every product that uses them.",
+        "This overview follows the Regulation (EU) 2023/1115 text provided in eudr.txt. It is an orientation aid, not legal advice; check the current consolidated rules for a real transaction."
+      ]
+    }
+  ]
+}
