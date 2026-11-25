@@ -1,10 +1,8 @@
-![logo_comission](https://green-forum.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg)
-![header](https://green-forum.ec.europa.eu/sites/default/files/styles/page_header_background/public/2026-04/lingchor-lDy1K7RkLeA-unsplash.jpg.webp?h=93b1d509&itok=c-mgQZeT)
 # EU Deforestation Regulation (EUDR)
-European Union Deflorestation Regulation
 
-## Archify flow overviews
+Archived HTML pages about the European Union Deforestation Regulation:
 
-- 🇬🇧 [English](.archify/workflow-eudr-flow-overview-20261124-103113/eudr-flow-overview.html)
-- 🇵🇹 [Português — visão geral](.archify/workflow-eudr-fluxo-pt-20261124-104653/fluxo-eudr.html)
-- 🇵🇹 [Português — diligência devida](.archify/workflow-eudr-due-diligence-pt-20261124-112132/diligencia-devida-eudr.html)
+- [Roles and responsibilities](Roles%20and%20responsibilities%20-%20Green%20Forum%20-%20European%20Commission.html)
+- [Understand due diligence](Understand%20Due%20Diligence%20-%20Green%20Forum%20-%20European%20Commission.html)
+
+These pages are published with GitHub Pages at <https://ezequias.github.io/eudr/>.
