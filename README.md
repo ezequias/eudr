@@ -12,3 +12,6 @@ Archived HTML pages about the European Union Deforestation Regulation:
 - 🇵🇹 [Diligência devida da EUDR](diagrams/diligencia-devida-eudr.html)
 
 These pages are published with GitHub Pages at <https://ezequias.github.io/eudr/>.
+
+> [!NOTE]
+> Always reference to the last update documentation from European Comission at [EU Comission](https://commission.europa.eu/index_en)
